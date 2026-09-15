@@ -1,0 +1,16 @@
+Target Role: Data Engineer
+
+Phase 1: Database Fundamentals & SQL Mastery
+- Topics: Relational Database Management Systems (PostgreSQL, MySQL), Schema Design, Normalization, Query Optimization, and Indexing.
+- NoSQL & Distributed Data: MongoDB, Cassandra, DynamoDB, Data Replication, and Sharding strategies.
+- Key Goal: Build high-performance database architectures and master complex data modeling.
+
+Phase 2: Data Warehousing & ETL Pipeline Development
+- Topics: Data Lakehouse architectures, Cloud Warehouses (Snowflake, BigQuery, AWS Redshift), Orchestration tools (Apache Airflow, Prefect).
+- Big Data Engines: Apache Spark, PySpark, Hadoop, Distributed Data Processing.
+- Key Goal: Build automated batch and real-time ETL pipelines that handle enterprise-scale datasets.
+
+Phase 3: Streaming Data & Event-Driven Systems
+- Topics: Event Streaming with Apache Kafka, RabbitMQ, Real-time processing with Flink/Spark Streaming.
+- Data Quality & Testing: Great Expectations, dbt (Data Build Tool) for transformations and data lineage.
+- Key Goal: Implement fault-tolerant streaming pipelines for sub-second data ingestion.

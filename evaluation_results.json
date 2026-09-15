@@ -1,0 +1,132 @@
+[
+  {
+    "question": "I completed my Higher Secondary Board Exams in CS and am preparing for my upcoming entrance exams to join a B.Tech program this fall. Should I focus on C++ or Java for backend engineering?",
+    "expected_stage": "High School",
+    "answer": "Based on the provided Backend Developer learning pathway, you should focus on **C++** (along with **C**), as **Java is not mentioned** in the curriculum. \n\nTo follow the specific, practical steps outlined in the pathway:\n\n1. **Beginner Phase:** Focus first on **C programming**, along with electronic circuit basics, breadboarding, and simple microcontroller programming using Arduino/ESP32.\n2. **Intermediate Phase:** Transition to bare-metal **C/C++ programming** on ARM Cortex-M chips, working directly with hardware registers and interrupt handlers.\n3. **Advanced Phase:** Progress to Real-Time Operating Systems (FreeRTOS), serial communication protocol debugging, and low-power wireless IoT node device design.\n\nTo align with this backend path, start by learning C, and then move on to C++ for the intermediate phase.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 4,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI strictly adhered to the provided context, clearly answered the user's comparison question based on that context, and offered structured, actionable next steps suitable for someone entering a B.Tech program."
+    }
+  },
+  {
+    "question": "I am working on my final-year capstone project and preparing for campus placements in cloud engineering. What AWS certifications should I target before graduation?",
+    "expected_stage": "College",
+    "answer": "Hello! As PathwayAI, your career mentor, based on the provided context, here are the specific AWS certifications you should target:\n\n**Associate Level:**\n* **AWS Certified Developer - Associate**\n* **AWS Certified Solutions Architect – Associate**\n\n**Professional Level:**\n* **AWS Certified Solutions Architect – Professional**",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 4,
+      "actionability": 3,
+      "overall": 4,
+      "comment": "The response is strictly faithful to the provided context and directly answers the query by filtering for AWS certifications. However, it lacks specific next steps or guidance on prioritizing Associate certs over Professional level before graduation."
+    }
+  },
+  {
+    "question": "I have been in a non-tech corporate role for 3 years and am taking online bootcamps after office hours to shift into Data Science. What Python libraries are essential for production deployment?",
+    "expected_stage": "Working Professional",
+    "answer": "Based on the provided roadmap (Phase 2: Model Deployment & Serving), the essential Python libraries and frameworks for production deployment are:\n\n* **Model Deployment:** **PyTorch** or **TensorFlow** (for your machine learning models).\n* **Model Serving:** **FastAPI** (used to serve your deployed models, alongside tools like Triton Inference Server).\n* **Artifact Tracking:** **MLflow** (used for setting up tracking, alongside tools like Weights & Biases).",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 4,
+      "actionability": 4,
+      "overall": 4,
+      "comment": "The response is highly faithful to the retrieved context and directly answers the user's question with a clean, structured breakdown of libraries. To further improve, it could offer a brief suggestion on how a working professional transitioning into data science should prioritize learning these tools."
+    }
+  },
+  {
+    "question": "As a JEE aspirant aiming for CS engineering, how early should I start learning LeetCode and System Design concepts?",
+    "expected_stage": "High School",
+    "answer": "Based on the provided context, there is no information regarding JEE preparation, CS engineering, LeetCode, or System Design. The context only outlines learning pathways for UI/UX Design and Product Management. \n\nTherefore, I cannot answer your specific question using only the provided text.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 3,
+      "stage_awareness": 2,
+      "actionability": 1,
+      "overall": 3,
+      "comment": "The AI correctly avoids hallucinating and strictly adheres to the provided context. However, because the context was irrelevant, it offers no actionable advice or stage-appropriate guidance for a high school JEE aspirant."
+    }
+  },
+  {
+    "question": "I am writing my Master's thesis on Graph Neural Networks while working as a part-time Graduate Teaching Assistant. Which MLOps frameworks are expected for industry entry roles?",
+    "expected_stage": "College",
+    "answer": "Hello! As PathwayAI, I am happy to help guide your transition into industry roles. Based on the provided learning pathway and core technical skills, the MLOps frameworks and tools expected for industry roles include:\n\n* **Pipeline Automation:** MLflow, Kubeflow, Airflow, and DVC\n* **Containerization & Orchestration:** Docker, Kubernetes, and Helm\n* **Model Monitoring:** Prometheus, Grafana, and Evidently AI\n* **Cloud Platforms & Integrations:** AWS (SageMaker), GCP (Vertex AI), and Azure ML\n* **Core ML/Deep Learning Frameworks:** PyTorch, TensorFlow, and Scikit-Learn\n\n**Practical Next Steps:**\nTo position yourself for entry-level roles, focus on the advanced phase of the pathway: practice deploying models using **MLflow** and integrating your workflows with cloud platforms like **AWS SageMaker** or **Azure ML**.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The response accurately reflects the retrieved context, directly addresses the user's query, correctly targets the advanced learning stage suitable for a Master's student, and provides clear, actionable recommendations."
+    }
+  },
+  {
+    "question": "I graduated with a B.E. last month and just signed an offer letter for an SDE-1 position starting next month. What system design topics should I study during my pre-onboarding phase?",
+    "expected_stage": "Working Professional",
+    "answer": "Based on the provided roadmap, during this phase you should study the following foundational system design concepts:\n\n*   **Scalability vs. Availability**\n*   **Caching Strategies**\n*   **Relational vs. NoSQL Databases**",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 4,
+      "overall": 4,
+      "comment": "The AI provided a faithful and directly relevant answer based on the context, accurately identifying the system design topics suitable for an incoming SDE-1. Adding brief recommendations or study resources would enhance actionability."
+    }
+  },
+  {
+    "question": "Our university curriculum only covers relational databases, but I want to master NoSQL for my semester mini-project. Where should I begin?",
+    "expected_stage": "College",
+    "answer": "Hello! As PathwayAI, your career mentor, here is where you should begin to master NoSQL based on the Data Engineer curriculum:\n\nTo get started on your semester mini-project, focus on the **NoSQL & Distributed Data** section of Phase 1:\n\n1. **Target Specific NoSQL Technologies:** Begin learning technologies like **MongoDB**, **Cassandra**, or **DynamoDB**.\n2. **Master Core Concepts:** Focus on understanding **Data Replication** and **Sharding strategies**.\n3. **Aim for the Key Goal:** Apply these tools to build high-performance database architectures and focus on complex data modeling.\n\n**Practical Application Step:** \nIf your mini-project requires an application layer, you can integrate your NoSQL database by building server-side programming logic and simple REST APIs (Beginner Phase), or use asynchronous frameworks like FastAPI or Express.js (Intermediate Phase).",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provided an accurate, highly relevant, and actionable response that strictly adheres to the provided context and is perfectly tailored for a college student working on a mini-project."
+    }
+  },
+  {
+    "question": "I'm balancing high school term finals with learning web development on the side. Is Next.js suitable as a first framework?",
+    "expected_stage": "High School",
+    "answer": "Hello! As PathwayAI, your career mentor, here is my advice based on the provided learning roadmap:\n\n**No, Next.js is not recommended as a first framework.** \n\nAccording to the curriculum context, Next.js is categorized under the **Advanced Phase** and is meant for **Advanced Projects** (such as building full-stack web architectures, blogs, or dashboards using Server-Side Rendering, the App Router, and authentication). \n\nSince you are balancing high school term finals and starting out, a more practical path based on the roadmap is to build your foundation step-by-step:\n\n1. **Beginner Level (Start here):** Focus on building a **responsive personal portfolio website** that showcases your projects using clean CSS animations.\n2. **Intermediate Level:** Move on to an **e-commerce product catalog** to practice interactive filters, search bars, cart state management, and API data fetching.\n3. **Advanced Level:** Once you have mastered the basics and intermediate concepts, move on to **Next.js** for full-stack development, web performance optimization, and automated testing (Jest, React Testing Library). \n\nTaking it step-by-step will help you manage your time effectively alongside your term finals!",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI response accurately uses the retrieved context to answer the user's question, tailor its advice to a high school student managing finals, and provide a clear, actionable roadmap."
+    }
+  },
+  {
+    "question": "I am mentoring high school students in robotics while managing my day-to-day work as a Senior DevOps Engineer. How can I transition internally to a Solutions Architect role?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! As PathwayAI, your career mentor, here is how you can focus your transition from a Senior DevOps Engineer to a Cloud Solutions Architect, based strictly on the provided role descriptions:\n\nTo transition into a Cloud Solutions Architect role, you will need to shift your primary focus from operational automation to higher-level architectural design and business alignment. \n\nHere is how your focus should evolve based on the two roles:\n\n* **From your current Senior DevOps Engineer responsibilities:** \n  You currently focus on bridging the gap between software development and IT operations by automating build, deployment, testing, and infrastructure management workflows, as well as ensuring continuous integration, continuous delivery (CI/CD), high reliability, and scalable infrastructure performance.\n\n* **To the Cloud Solutions Architect responsibilities you need to adopt:**\n  To move into the Architect role, you must focus on:\n  1. **Infrastructure Design & Optimization:** Designing, implementing, and optimizing scalable, highly available, fault-tolerant, and secure cloud infrastructure environments.\n  2. **Business Alignment:** Directing cloud systems so that they align with business requirements.\n  3. **Cloud Migrations:** Managing cloud migrations.\n  4. **Cost Governance:** Enforcing cost-efficiency (FinOps).\n  5. **Standards & Patterns:** Establishing architectural patterns using Cloud Native principles.\n\n*(Note: The provided context does not contain specific details regarding internal company transfer procedures or how robotics mentoring applies to this transition.)*",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 4,
+      "stage_awareness": 5,
+      "actionability": 4,
+      "overall": 4,
+      "comment": "The response is completely faithful to the context and explicitly notes missing context regarding internal transfers and robotics mentoring. It provides a clear, professional comparison of skill shifts suitable for a Senior DevOps Engineer, though actual internal transition steps are constrained by the retrieved text."
+    }
+  },
+  {
+    "question": "I am taking high school level remedial math courses online to clear prerequisites for my university CS enrollment next month. What discrete math topics matter most?",
+    "expected_stage": "College",
+    "answer": "Based on the provided context, \"discrete math\" topics are not mentioned. \n\nHowever, for the target role of **AI Research Engineer**, the context explicitly states that the following math topics matter for **Phase 1: Advanced Mathematical Foundations**:\n\n* **Linear Algebra:** Specifically SVD (Singular Value Decomposition) and Eigenvalues.\n* **Multivariable Calculus:** Specifically Optimization and Gradients.\n* **Probability/Statistics**",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 3,
+      "stage_awareness": 2,
+      "actionability": 2,
+      "overall": 3,
+      "comment": "The AI correctly identified that discrete math was missing from the context and stayed strictly faithful to the provided text. However, because it relied strictly on mismatched context, it failed to answer the user's specific query about discrete math topics and did not adjust for an incoming student taking remedial high school math."
+    }
+  }
+]

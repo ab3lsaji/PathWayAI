@@ -1,0 +1,20 @@
+Target Role: AI Research Engineer
+
+Phase 1: Advanced Mathematical Foundations & Core Frameworks
+- Topics: Linear Algebra (SVD, Eigenvalues), Multivariable Calculus (Optimization, Gradients), and Probability/Statistics.
+- Tools & Libraries: Python, PyTorch (custom training loops, autograd), NumPy, CUDA programming concepts for performance optimization.
+- Key Goal: Master deep learning primitives from scratch rather than relying only on high-level APIs.
+
+Phase 2: Applied Deep Learning & Paper Replication
+- Topics: Modern Transformer architectures, Self-Attention mechanisms, Generative AI (GANs, Diffusion Models), and LLM Fine-Tuning (LoRA, QLoRA).
+- Hands-on Milestones: Implement a Transformer model from scratch using PyTorch. Replicate key findings from recent AI research papers.
+- Key Goal: Build end-to-end research prototypes and evaluate model metrics rigorously.
+
+Phase 3: RAG, Vector Systems & LLM Orchestration
+- Topics: Retrieval-Augmented Generation (RAG), Vector Embeddings, Chunking Strategies, and Frameworks like LangChain/LlamaIndex.
+- Vector Databases: Hands-on experience with ChromaDB, FAISS, or Qdrant for semantic search.
+- Key Goal: Build grounded AI pipelines that connect local LLMs with private knowledge bases.
+
+Phase 4: Publication, GitHub Portfolio & Industry Readiness
+- Deliverables: Maintain clean, reproducible open-source repositories on GitHub. Write research summaries or technical blog posts.
+- Placement & Networking: Present projects to peer communities, submit code to open-source AI projects, and prepare for system design & ML architecture interviews.

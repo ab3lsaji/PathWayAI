@@ -1,0 +1,24 @@
+ROLE: Blockchain Developer
+
+OVERVIEW:
+Blockchain Developers construct decentralized applications (dApps) and smart contracts on cryptographic blockchain networks. They engineer tamper-proof transaction protocols and consensus mechanisms for financial, identity, and governance systems.
+
+CORE TECHNICAL SKILLS:
+- Languages: Solidity, Rust, Go, TypeScript
+- Frameworks & Tools: Hardhat, Foundry, Ethers.js, Web3.js, Truffle, OpenZeppelin
+- Blockchain Protocols: Ethereum (EVM), Solana, Layer 2s (Arbitrum, Optimism), IPFS
+- Concepts: Cryptography, Smart Contract Security & Auditing, Token Standards (ERC-20, ERC-721, ERC-1155), Decentralized Finance (DeFi)
+
+LEARNING PATHWAY:
+1. Beginner Phase: Master cryptography principles, blockchain fundamentals, transaction structures, and JavaScript/TypeScript.
+2. Intermediate Phase: Write, test, and deploy Ethereum smart contracts using Solidity and Hardhat/Foundry frameworks.
+3. Advanced Phase: Master smart contract security auditing, gas optimization techniques, cross-chain messaging protocols, and building full-stack Web3 applications.
+
+RECOMMENDED PROJECTS:
+- Beginner: Custom ERC-20 token contract deployed on an Ethereum testnet with automated unit test coverage.
+- Intermediate: Decentralized Voting dApp with a React frontend, Web3 wallet connection, and Solidity voting ledger.
+- Advanced: Decentralized Automated Market Maker (AMM) contract allowing automated token swaps and liquidity pool staking.
+
+CERTIFICATIONS & RESOURCES:
+- Certified Ethereum Developer (Blockchain Council)
+- Certified Blockchain Developer (BTA)

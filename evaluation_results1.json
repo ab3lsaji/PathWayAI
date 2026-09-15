@@ -1,0 +1,1302 @@
+[
+  {
+    "question": "I completed my Higher Secondary Board Exams in CS and am preparing for my upcoming entrance exams to join a B.Tech program this fall. Should I focus on C++ or Java for backend engineering?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI, your career mentor.\n\nBased on the provided learning pathway for a Backend Developer, you should focus on **C++**. \n\nThe pathway explicitly outlines a progression starting with C programming and transitioning into C/C++ programming for hardware-level development. Java is not mentioned in the provided context.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 2,
+      "actionability": 3,
+      "overall": 3,
+      "comment": "While the AI followed the provided context perfectly, the context itself describes an Embedded Systems/IoT pathway rather than a standard Backend Web Development pathway. The AI failed to identify that the provided context was misaligned with the user's career goal of 'Backend Engineering'."
+    }
+  },
+  {
+    "question": "As a JEE aspirant aiming for CS engineering, how early should I start learning LeetCode and System Design concepts?",
+    "expected_stage": "High School",
+    "answer": "I am sorry, but the provided context does not contain information regarding JEE preparation, CS engineering, LeetCode, or System Design. My instructions are to answer your question using only the provided learning pathways, which focus on UI/UX design and Product Management.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 3,
+      "stage_awareness": 2,
+      "actionability": 1,
+      "overall": 3,
+      "comment": "While the AI correctly identified that the context was irrelevant, it failed to provide any helpful guidance or redirection for a high school student, resulting in a dead-end response."
+    }
+  },
+  {
+    "question": "I'm balancing high school term finals with learning web development on the side. Is Next.js suitable as a first framework?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI. Based on the provided context, here is the guidance for your situation:\n\nWhile Next.js is listed as a tool for the **Advanced Phase** of your development journey—specifically for building full-stack architectures, Server-Side Rendering (SSR), and using the App Router—it is categorized as an **Advanced** project requirement.\n\nGiven that you are balancing high school finals, it is recommended that you follow the progression outlined in the context:\n\n1.  **Start with the Beginner project:** Focus on building a responsive personal portfolio website with clean CSS animations.\n2.  **Move to the Intermediate project:** Build an e-commerce product catalog to practice interactive filters, search bars, cart state management, and API data fetching.\n3.  **Advance to Next.js:** Once you have mastered those foundational skills, you can transition to Next.js to build full-stack applications, implement SSR, and master automated testing.\n\nFocusing on these phases sequentially will allow you to build a strong foundation without overwhelming your current study schedule.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides a highly relevant and structured response that respects the user's current academic constraints while accurately interpreting the provided context to guide their learning path."
+    }
+  },
+  {
+    "question": "I am in 11th grade with PCMC. What beginner-friendly projects can I build to add to my college application portfolio?",
+    "expected_stage": "High School",
+    "answer": "Hello! As an 11th-grade student with a PCMC background, you can build a strong foundation for your college portfolio by focusing on these two beginner-friendly projects:\n\n*   **UX/UI Design:** Redesign a poorly structured local business landing page mockup using Figma.\n*   **Web Development:** Build a responsive personal portfolio website that showcases your projects and features clean CSS animations.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately extracted the most relevant beginner projects from the context and tailored them perfectly to an 11th-grade student's profile."
+    }
+  },
+  {
+    "question": "I am a high school senior interested in Artificial Intelligence. Should I pursue a pure Computer Science degree or an AI/ML specialized degree?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the provided learning pathway for an AI Research Engineer, here is how you should approach your academic decision:\n\nThe provided context does not explicitly mandate a specific degree title (Computer Science vs. AI/ML). However, it emphasizes that the core of an AI Research Engineer’s success lies in **mastering deep learning primitives from scratch** and building a robust foundation in **mathematics and core frameworks.**\n\nTo align with the pathway, you should choose the degree program that best ensures you master the following:\n\n*   **Mathematical Foundations:** Ensure your curriculum covers Linear Algebra (SVD, Eigenvalues), Multivariable Calculus (Optimization, Gradients), and Probability/Statistics.\n*   **Technical Proficiency:** Prioritize a program that allows you to gain deep experience with Python, PyTorch (specifically custom training loops and autograd), and performance optimization concepts like CUDA.\n*   **Practical Application:** Look for a program that transitions from foundational theory (Beginner Phase) to machine learning concepts and data engineering (Intermediate Phase), and finally to advanced deep learning, NLP, and cloud deployment (Advanced Phase).\n\n**Practical Advice:**\nRather than focusing solely on the degree title, evaluate the course catalog of both options. Choose the program that provides the most rigorous training in the **Advanced Phase** topics—specifically deep learning frameworks, model deployment (MLflow), and cloud integrations (AWS SageMaker/Azure ML)—while ensuring you do not skip the foundational math and programming requirements outlined in the Beginner and Intermediate phases.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides a highly professional and balanced response. It correctly identifies that the degree title is less important than the curriculum content, effectively mapping the provided technical context to the user's academic decision-making process."
+    }
+  },
+  {
+    "question": "I am preparing for 12th grade board exams and want to get into competitive programming. Should I start with Python or C++?",
+    "expected_stage": "High School",
+    "answer": "Based on the provided learning pathways, you should start with **C++ and Python**. Both are listed as foundational requirements in the Beginner Phase of the robotics pathway.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 3,
+      "actionability": 3,
+      "overall": 4,
+      "comment": "The answer is faithful to the context, but it fails to address the user's specific goal of 'competitive programming,' instead recommending languages based on robotics and data science pathways which are irrelevant to that goal."
+    }
+  },
+  {
+    "question": "How can a high school student participate in open-source programs like Google Summer of Code before entering college?",
+    "expected_stage": "High School",
+    "answer": "Based on the provided context, there is no information regarding how a high school student can participate in open-source programs like Google Summer of Code. The provided text focuses exclusively on the role, overview, and learning pathway for a Software Engineer at Google.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 3,
+      "actionability": 2,
+      "overall": 3,
+      "comment": "The AI correctly identified that the context lacked the requested information, which is faithful. However, it failed to provide any external guidance or helpful alternatives for a high school student, making the response unhelpful despite its accuracy regarding the context."
+    }
+  },
+  {
+    "question": "I am in 10th grade and love building simple Python scripts. What mathematics topics should I focus on for future Data Science studies?",
+    "expected_stage": "High School",
+    "answer": "Hello! As PathwayAI, I’m excited to help you map out your path. Since you are already building Python scripts, you have a great head start.\n\nTo prepare for future Data Science and AI Research Engineering studies, you should focus on these specific mathematical foundations:\n\n*   **Linear Algebra:** Prioritize learning about **SVD (Singular Value Decomposition)** and **Eigenvalues**. These are essential for understanding how data is processed and transformed in machine learning models.\n*   **Multivariable Calculus:** Focus on **Optimization** and **Gradients**. Understanding how to calculate and use gradients is the core mechanism behind how AI models \"learn\" from data.\n*   **Probability and Statistics:** Build a strong foundation in these areas, as they are critical for interpreting data, performing **Hypothesis Testing**, and conducting **A/B Testing**.\n\n**Practical Tip:** As you learn these concepts, try to implement them using **NumPy** in your Python scripts. This will help you bridge the gap between abstract math and the practical tools used in the field.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 4,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided context and tailored the advice well for a high school student. It successfully bridged the gap between advanced theoretical concepts and practical implementation."
+    }
+  },
+  {
+    "question": "Should I focus on preparing for engineering entrance exams (like JEE) or building web apps during my 12th grade break?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI. Based on the provided learning pathway, if you choose to focus on building web apps during your 12th-grade break, you should follow this structured progression:\n\n*   **Beginner Phase:** Start by mastering semantic HTML, modern CSS layout techniques (Flexbox and Grid), responsive media queries, and core JavaScript DOM manipulation.\n*   **Intermediate Phase:** Once you have the basics, move on to building single-page applications using React and TypeScript, styling your components with Tailwind CSS, and learning how to integrate external APIs.\n*   **Advanced Phase:** As you progress, focus on developing full-stack web architectures using Next.js (specifically Server-Side Rendering and the App Router), implementing web performance optimization, and mastering automated testing with tools like Jest and React Testing Library.\n\nThe provided context does not contain information regarding engineering entrance exams like JEE; therefore, I recommend focusing your efforts on the technical roadmap above to build your web development skills.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 4,
+      "stage_awareness": 4,
+      "actionability": 5,
+      "overall": 4,
+      "comment": "The AI correctly identifies the limitations of the context regarding JEE. However, it could have provided more balanced career guidance by acknowledging the high stakes of 12th-grade exams rather than solely pushing the technical roadmap."
+    }
+  },
+  {
+    "question": "Is taking an AP Computer Science course worth it if I plan to study CS in India?",
+    "expected_stage": "High School",
+    "answer": "Based on the provided context, there is no information regarding AP Computer Science courses or studying Computer Science in India. Therefore, I cannot provide an answer to your question using the available resources.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 3,
+      "stage_awareness": 2,
+      "actionability": 1,
+      "overall": 2,
+      "comment": "While the AI correctly identified that the context lacked information, it failed to provide any helpful guidance or general knowledge outside of the context, leaving the high school student with no actionable advice."
+    }
+  },
+  {
+    "question": "What basic hardware concepts should a high school graduate learn before starting a Computer Science and Engineering degree?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI, your career mentor. To prepare for your Computer Science and Engineering degree, you should focus on these foundational hardware concepts as outlined in the Beginner Phase of your learning pathway:\n\n*   **Electronic Circuit Basics:** Understand the fundamental principles of how circuits function.\n*   **Breadboarding:** Learn how to use a breadboard to prototype and build circuits.\n*   **Microcontroller Programming:** Gain experience with simple programming using platforms like Arduino or ESP32.\n*   **C Programming:** Begin learning the C language, as it is the essential foundation for hardware-level programming.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately extracted the relevant beginner-level information from the context and presented it in a clear, encouraging tone suitable for a high school graduate."
+    }
+  },
+  {
+    "question": "I am a high school student interested in Cyber Security. What safe platforms exist for beginners to practice ethically?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI, your career mentor. \n\nBased on the provided context, there is no information regarding specific platforms for practicing cybersecurity ethically. However, to begin your journey, you should focus on the **Entry-Level** certifications: **CompTIA Security+** and **Cisco CyberOps Associate**. \n\nAdditionally, you can start your **Beginner Phase** learning path by mastering cryptography principles, blockchain fundamentals, transaction structures, and JavaScript/TypeScript.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 3,
+      "stage_awareness": 3,
+      "actionability": 2,
+      "overall": 3,
+      "comment": "The AI correctly identified that the context lacked the requested information, but the provided learning pathway is focused on Web3/Blockchain development rather than general cybersecurity practice, making the advice misaligned with the user's specific interest."
+    }
+  },
+  {
+    "question": "How can I prepare for coding hackathons while still in high school?",
+    "expected_stage": "High School",
+    "answer": "To prepare for coding hackathons while in high school, you should follow the specific phases outlined in the provided learning pathways based on your area of interest:\n\n**If you are interested in Embedded Systems/Hardware:**\n*   **Beginner Phase:** Start by learning C programming and the basics of electronic circuits. Practice breadboarding and programming simple microcontrollers like Arduino or ESP32.\n*   **Intermediate Phase:** Move toward bare-metal C/C++ programming on ARM Cortex-M chips, focusing on working directly with hardware registers and interrupt handlers.\n*   **Advanced Phase:** Learn to implement Real-Time Operating Systems (FreeRTOS), master debugging serial communication protocols, and design low-power wireless IoT node devices.\n\n**If you are interested in Web3/Blockchain:**\n*   **Beginner Phase:** Master cryptography principles, blockchain fundamentals, and transaction structures. Develop proficiency in JavaScript or TypeScript.\n*   **Intermediate Phase:** Focus on writing, testing, and deploying Ethereum smart contracts using Solidity and frameworks like Hardhat or Foundry.\n*   **Advanced Phase:** Learn smart contract security auditing, gas optimization techniques, cross-chain messaging protocols, and how to build full-stack Web3 applications.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 3,
+      "actionability": 5,
+      "overall": 4,
+      "comment": "The answer is perfectly faithful to the context and highly actionable. However, the 'Advanced Phase' content (e.g., smart contract security auditing, RTOS) is quite ambitious for a high school student, suggesting a slight lack of nuance regarding the academic stage."
+    }
+  },
+  {
+    "question": "I am choosing my 11th grade stream. Is Computer Science necessary in high school to do B.Tech CS in college?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI. Based on the provided context, there is no information regarding high school stream requirements or the necessity of Computer Science in 11th grade for B.Tech admissions. \n\nThe provided context focuses exclusively on specific technical learning pathways for Embedded Systems/IoT and Software Quality Assurance. I cannot provide guidance on high school curriculum requirements.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 4,
+      "stage_awareness": 5,
+      "actionability": 2,
+      "overall": 4,
+      "comment": "The AI correctly identified that the provided context was insufficient to answer the user's query, preventing hallucination. However, it failed to provide general career guidance or suggest where the user might find the correct information, making it less helpful than it could have been."
+    }
+  },
+  {
+    "question": "What is the difference between IT engineering and Computer Science engineering for a high school student making college choices?",
+    "expected_stage": "High School",
+    "answer": "Based on the provided context, I cannot answer your question regarding the difference between \"IT engineering\" and \"Computer Science engineering.\" The provided information only defines the roles of a **Software Engineer at Google** and an **Embedded Systems Engineer**. \n\nHowever, based on the roles provided, I can offer this practical distinction for your college planning:\n\n*   **If you are interested in Software Engineering (SWE):** Focus your studies on Computer Science fundamentals, data structures, algorithms, and system design. Google’s hiring process prioritizes these core concepts and coding efficiency over knowledge of specific software frameworks.\n*   **If you are interested in Embedded Systems Engineering:** Focus your studies on the intersection of software and hardware. You will need to learn how to program low-level software that interacts directly with hardware components, sensors, actuators, and communication protocols on microcontrollers and embedded processors.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 4,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI correctly identified that the context did not contain the specific definitions requested, maintained high faithfulness by not hallucinating, and provided helpful, stage-appropriate guidance based on the available information."
+    }
+  },
+  {
+    "question": "I am in 12th grade. What basic Git and GitHub commands should every beginner developer learn?",
+    "expected_stage": "High School",
+    "answer": "Hello! As your PathwayAI career mentor, I can guide you based on the foundational requirements for your journey. \n\nTo master **Git version control** as part of your Beginner Phase, you should focus on these essential commands:\n\n*   **`git init`**: To initialize a new local repository.\n*   **`git clone`**: To copy an existing repository from GitHub to your local machine.\n*   **`git status`**: To check the state of your working directory and staging area.\n*   **`git add <file>`**: To stage changes for your next commit.\n*   **`git commit -m \"message\"`**: To save your staged changes to the repository history with a descriptive message.\n*   **`git push`**: To upload your local commits to your GitHub repository.\n*   **`git pull`**: To fetch and integrate changes from your remote GitHub repository into your local workspace.\n*   **`git branch`**: To create, list, or delete branches so you can work on features in isolation.\n*   **`git checkout`**: To switch between different branches or restore working tree files.\n\nMastering these will provide the necessary foundation before you move on to the Intermediate Phase of building containerized applications and CI/CD pipelines.",
+    "scores": {
+      "faithfulness": 4,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The answer is excellent and highly relevant. While the specific Git commands were not explicitly listed in the provided context, they are a logical and necessary interpretation of the 'Git version control' requirement mentioned in the Beginner Phase."
+    }
+  },
+  {
+    "question": "How much math is actually required for Software Engineering vs Game Development for high schoolers choosing electives?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI. Based on the context provided regarding the Software Engineer role at Google, here is the breakdown for your elective choices:\n\n**For Software Engineering (Google focus):**\nYou should prioritize **Advanced Mathematical Foundations**. Specifically, focus on:\n*   **Linear Algebra:** Master concepts like SVD and Eigenvalues.\n*   **Multivariable Calculus:** Focus on optimization and gradients.\n*   **Probability and Statistics:** These are essential for the data-driven nature of modern software engineering and AI research.\n\n**For Game Development:**\nWhile the provided context focuses on the Software Engineer role, it emphasizes that Google hiring prioritizes **Computer Science fundamentals, data structures, and algorithms** over specific framework knowledge. \n\n**Practical Advice for High Schoolers:**\nIf you are choosing electives to prepare for a career in high-level software engineering or AI research:\n1.  **Prioritize Calculus and Statistics:** These are the building blocks for the \"Advanced Mathematical Foundations\" required for roles like an AI Research Engineer.\n2.  **Focus on Fundamentals:** Choose courses that strengthen your logic and algorithmic thinking. The context notes that Google values strong CS fundamentals over specific tools, so build a deep understanding of how systems work rather than just learning high-level software APIs.\n3.  **Build from Scratch:** In your elective projects, try to implement concepts (like deep learning primitives) from scratch using Python or NumPy rather than relying on pre-built libraries. This mirrors the \"Key Goal\" of mastering the underlying mechanics of the technology.",
+    "scores": {
+      "faithfulness": 3,
+      "relevance": 4,
+      "stage_awareness": 2,
+      "actionability": 4,
+      "overall": 3,
+      "comment": "The AI hallucinates that the provided context applies to general Software Engineering when it specifically describes an AI Research Engineer role. It also suggests high schoolers master advanced linear algebra and multivariable calculus, which is often beyond the standard high school curriculum, showing a lack of stage-appropriate calibration."
+    }
+  },
+  {
+    "question": "Should high school students build personal websites using HTML/CSS/JS or use site builders like Framer/Wix?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the learning pathway provided, here is the recommended approach for high school students:\n\nYou should build your personal website using **HTML, CSS, and JavaScript**. \n\nAccording to the \"Beginner Phase\" of the learning pathway, mastering semantic HTML, modern CSS layout techniques (Flexbox, Grid), responsive media queries, and core JavaScript DOM manipulation is the essential first step in your development journey. Building a responsive personal portfolio website is specifically recommended as a beginner project to showcase your work and apply these core skills.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides a clear, evidence-based recommendation that aligns perfectly with the provided learning pathway, correctly prioritizing foundational skill-building for a high school student."
+    }
+  },
+  {
+    "question": "What certification, if any, is valuable for high school students wanting to demonstrate early technical skills?",
+    "expected_stage": "High School",
+    "answer": "Based on the provided context, the following certifications are available for those looking to demonstrate technical skills:\n\n**For Software Testing and Automation:**\n*   ISTQB Certified Tester Foundation Level (CTFL)\n*   Selenium Automation Engineer Certification\n\n**For Robotics:**\n*   ConstructSim ROS2 Certification\n*   Udacity Robotics Software Engineer Nanodegree",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 2,
+      "actionability": 3,
+      "overall": 3,
+      "comment": "While the answer is faithful to the context, it lacks stage awareness. It fails to acknowledge that these professional-level certifications may be overly advanced or inaccessible for a typical high school student, and it provides no guidance on how to actually pursue them."
+    }
+  },
+  {
+    "question": "How do I manage my time between entrance exam coaching and self-taught programming in high school?",
+    "expected_stage": "High School",
+    "answer": "I am sorry, but the provided context does not contain information regarding time management strategies for balancing entrance exam coaching with self-taught programming. I can only provide guidance based on the learning pathways for server-side programming or mobile application development provided in the context.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 2,
+      "stage_awareness": 2,
+      "actionability": 1,
+      "overall": 2,
+      "comment": "While the AI correctly identified that the context lacked the requested information, it failed to provide any helpful general guidance or bridge the gap for a high school student, resulting in a dead-end response."
+    }
+  },
+  {
+    "question": "I want to explore robotics in high school. Should I buy an Arduino or a Raspberry Pi to start?",
+    "expected_stage": "High School",
+    "answer": "Hello! As your PathwayAI career mentor, I recommend starting with an **Arduino**.\n\nAccording to the learning pathway for hardware and embedded systems, the Beginner Phase focuses on learning C programming, electronic circuit basics, breadboarding, and simple microcontroller programming using **Arduino** or ESP32. This provides the foundational skills necessary before transitioning to more complex tasks like bare-metal programming or Real-Time Operating Systems (FreeRTOS) in later phases.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI correctly identified the appropriate hardware based on the provided context and tailored the recommendation perfectly for a high school student."
+    }
+  },
+  {
+    "question": "What free platforms can a high schooler use to host their first web development projects online?",
+    "expected_stage": "High School",
+    "answer": "I am sorry, but the provided context does not contain information regarding free platforms for hosting web development projects. I can, however, provide guidance on the recommended projects for your skill level if you would like.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 2,
+      "stage_awareness": 3,
+      "actionability": 2,
+      "overall": 3,
+      "comment": "While the AI correctly identified that the context lacked the requested information, it failed to provide helpful external knowledge or general guidance, leaving the user with no actionable path forward."
+    }
+  },
+  {
+    "question": "Is learning Linux terminal commands useful for high school students interested in DevOps?",
+    "expected_stage": "High School",
+    "answer": "Yes, learning Linux terminal commands is highly useful for high school students interested in DevOps. According to the provided learning pathways, developing deep proficiency in Linux system administration and mastering shell scripting are foundational requirements in the \"Beginner Phase\" for both paths. These skills serve as the starting point for progressing into more complex tasks like containerization, cloud automation, and distributed systems.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 4,
+      "overall": 5,
+      "comment": "The answer is highly accurate, directly addresses the user's query using the provided context, and is perfectly tailored to a high school student's starting point in DevOps."
+    }
+  },
+  {
+    "question": "I am finishing high school and interested in Mobile App development. Should I start with Flutter or Native Android?",
+    "expected_stage": "High School",
+    "answer": "Hello! As your PathwayAI career mentor, I recommend starting with the **Beginner Phase** outlined in our learning pathway.\n\nTo answer your question specifically: You should begin by learning fundamental object-oriented programming in **Kotlin** (for Native Android) or **Dart** (for Flutter). \n\nHere is the practical approach based on your current stage:\n\n*   **If you choose the Flutter path:** Start by learning **Dart**. Once you have mastered the fundamentals, you will move into the **Intermediate Phase**, where you will master the Flutter framework, state management (such as Provider or Bloc), and API integration.\n*   **If you choose the Native Android path:** Start by learning **Kotlin**. You will then progress to using tools like **Android Studio** and frameworks like **Jetpack Compose** to build your user interfaces.\n\n**My recommendation:** Since you are just starting, focus first on the **Beginner Phase**—building simple, single-screen user interfaces using one of those languages. Once you are comfortable with the core concepts of object-oriented programming, you can transition into the **Intermediate Phase** to specialize in either Flutter or Native Android development.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides a clear, structured response that aligns perfectly with the provided context. It effectively breaks down the decision for a high school student by emphasizing foundational skills before specialization."
+    }
+  },
+  {
+    "question": "How can high schoolers find virtual coding internships or research opportunities?",
+    "expected_stage": "High School",
+    "answer": "As PathwayAI, I can advise that while the provided context focuses on the role of a Software Engineer at Google and specific high-impact projects, it does not contain information regarding how high schoolers can find virtual coding internships or research opportunities. \n\nTo build the foundational skills necessary for such opportunities, you should focus on the areas emphasized by Google: **Computer Science fundamentals, data structures, algorithms, and system design.** \n\nYou can practically apply these skills by building projects similar to those listed in the context, such as:\n*   **Developing a Home Lab SOC Environment:** This demonstrates your ability to work with virtual labs, security tools (like Elastic SIEM), and cross-platform agents.\n*   **Writing Automated Incident Response Scripts:** This showcases your ability to use Python to parse logs and manage firewall rules, which highlights practical coding efficiency. \n\nFocusing on these types of projects will help you build a strong portfolio that demonstrates the technical competency required for future internships.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 3,
+      "stage_awareness": 3,
+      "actionability": 4,
+      "overall": 4,
+      "comment": "The AI correctly identified that the context lacked the answer to the specific question. However, the suggested projects (SOC environments and incident response scripts) are quite advanced for a typical high schooler, and the response could have been improved by suggesting general platforms (like LinkedIn or GitHub) to supplement the missing context."
+    }
+  },
+  {
+    "question": "What is the best way for a high school student to learn object-oriented programming (OOP) principles?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the provided learning pathway, the best way for a high school student to learn object-oriented programming (OOP) principles is to follow the **Beginner Phase** of the mobile development track:\n\n1.  **Choose a language:** Select one of the three recommended languages: **Dart, Kotlin, or Swift**.\n2.  **Focus on fundamentals:** Dedicate your learning to the core principles of object-oriented programming within your chosen language.\n3.  **Apply your skills:** Practice these principles by building simple, single-screen user interfaces.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided context to offer a clear, actionable path for a high school student, correctly identifying the most relevant track for learning OOP."
+    }
+  },
+  {
+    "question": "I am in 11th grade standard. Should I prioritize learning Data Structures or Web Development first?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI. Based on the learning pathways provided, you should prioritize **Web Development**.\n\nThe provided context outlines a clear, structured progression for Web Development, starting with a Beginner Phase that focuses on foundational skills like semantic HTML, CSS, and JavaScript DOM manipulation, followed by an Intermediate Phase involving React, TypeScript, and API integration. \n\nSince the provided context does not mention Data Structures, you should focus your efforts on the specific Web Development roadmap provided to build your technical foundation.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 4,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI correctly identified that the provided context lacked information on Data Structures and logically prioritized the available Web Development roadmap. It is well-tailored for a high school student."
+    }
+  },
+  {
+    "question": "Are online coding bootcamps recommended for high school graduates instead of a standard 4-year degree?",
+    "expected_stage": "High School",
+    "answer": "As PathwayAI, I must inform you that the provided context does not contain information regarding the recommendation of online coding bootcamps versus a 4-year degree for high school graduates. \n\nHowever, if you are looking to start a career in backend development, the provided learning pathway suggests beginning with server-side programming, SQL, HTTP protocols, and REST APIs, followed by mastering frameworks like FastAPI or Express.js, and eventually advancing to microservices and caching architectures. You may also consider the Meta Frontend Developer Professional Certificate or FreeCodeCamp certifications as resources for your development.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 3,
+      "stage_awareness": 3,
+      "actionability": 4,
+      "overall": 4,
+      "comment": "The AI correctly identified that the context lacked the answer to the specific question. While it provided helpful alternative information, it could have offered more guidance on how a high school graduate might evaluate the trade-offs between bootcamps and degrees outside of the provided context."
+    }
+  },
+  {
+    "question": "What laptop specifications are required for a high school student entering a Computer Science university program?",
+    "expected_stage": "High School",
+    "answer": "Based on the provided context, there is no information regarding laptop specifications for a high school student entering a Computer Science university program. The provided resources focus exclusively on professional certifications for Linux, Terraform, Kubernetes, AWS, and Robotics.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 3,
+      "overall": 4,
+      "comment": "The AI correctly identified that the context was insufficient to answer the question. While it was honest and accurate, it could have improved actionability by providing general industry-standard advice for CS students since the context was irrelevant."
+    }
+  },
+  {
+    "question": "How can I learn problem-solving and algorithmic thinking before learning a programming language?",
+    "expected_stage": "High School",
+    "answer": "Based on the provided learning pathways, there is no information regarding how to learn problem-solving or algorithmic thinking before learning a programming language. The pathways focus on technical skill acquisition starting with Python programming or Linux system administration.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 4,
+      "actionability": 2,
+      "overall": 4,
+      "comment": "The AI correctly identified that the context lacked the requested information. However, it failed to provide any external guidance or alternative resources, leaving the high school student without a clear path forward."
+    }
+  },
+  {
+    "question": "Is Cloud Computing worth learning for a high school student, or should I stick to core programming languages first?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI. Based on the learning pathways provided, here is the practical advice for your situation:\n\nYou should **stick to core programming languages first**. \n\nAccording to the provided learning pathways, cloud computing (such as AWS SageMaker or Azure ML) is categorized strictly under the **Advanced Phase**. To reach that level, you must first master the foundational skills outlined in the Beginner and Intermediate phases:\n\n*   **If you are interested in Data Science:** Start by mastering Python, SQL, linear algebra, and statistics before moving to machine learning and eventually cloud integrations.\n*   **If you are interested in Software Development:** Start by mastering server-side programming, SQL, and REST APIs before moving to asynchronous frameworks and eventually distributed microservices and cloud-related infrastructure.\n\nFocusing on these core competencies first will provide the necessary technical foundation required to successfully implement cloud technologies later in your journey.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides a logical, well-structured response that correctly interprets the provided context and offers age-appropriate guidance by prioritizing foundational skills over advanced cloud concepts."
+    }
+  },
+  {
+    "question": "I am in high school and interested in UX/UI design. Do I need to learn frontend coding as well?",
+    "expected_stage": "High School",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the provided context, here is the answer to your question:\n\nAs a Frontend Developer, your role is specifically defined as translating UX design wireframes into clean, accessible, and performance-optimized code that runs in web browsers. \n\nIf you are interested in the UX/UI design path, the provided learning pathway focuses on the following technical skills:\n*   **Beginner Phase:** Mastering visual design fundamentals (typography, color theory, alignment, grids) and basic vector editing in Figma.\n*   **Intermediate Phase:** Conducting user research, defining user personas, mapping out user flowcharts, and building interactive high-fidelity prototypes.\n*   **Advanced Phase:** Establishing comprehensive component design systems, conducting structured usability testing, and handing off assets to developer teams.\n\nWhile the role of a Frontend Developer requires coding, the UX/UI design pathway outlined here focuses on design, research, and prototyping skills rather than programming.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 4,
+      "actionability": 4,
+      "overall": 5,
+      "comment": "The AI accurately interpreted the provided context to answer the user's question. It correctly distinguished between the Frontend Developer role and the UX/UI design pathway, providing a clear answer to the user's inquiry."
+    }
+  },
+  {
+    "question": "What programming languages are taught in typical first-year B.Tech Computer Science programs?",
+    "expected_stage": "High School",
+    "answer": "I am sorry, but the provided context does not contain information regarding the programming languages taught in typical first-year B.Tech Computer Science programs. My instructions are to answer using only the provided context.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 2,
+      "stage_awareness": 3,
+      "actionability": 1,
+      "overall": 2,
+      "comment": "While the AI correctly identified that the context was irrelevant to the specific question, it failed to provide a helpful response. It should have acknowledged the limitation while offering general guidance or suggesting where the user might find the correct information."
+    }
+  },
+  {
+    "question": "I am working on my final-year capstone project and preparing for campus placements in cloud engineering. What AWS certifications should I target before graduation?",
+    "expected_stage": "College",
+    "answer": "To prepare for campus placements in cloud engineering, you should target the following AWS certifications based on your current level:\n\n*   **Associate Level:** AWS Certified Solutions Architect – Associate (this is also listed as a resource alongside your AWS Certified Developer – Associate).\n*   **Professional Level:** AWS Certified Solutions Architect – Professional.",
+    "scores": {
+      "faithfulness": 4,
+      "relevance": 5,
+      "stage_awareness": 4,
+      "actionability": 4,
+      "overall": 4,
+      "comment": "The answer is highly relevant and accurate to the context, though it missed mentioning the 'AWS Certified Developer - Associate' explicitly listed in the resources, which is arguably the most relevant certification for a student targeting cloud engineering roles."
+    }
+  },
+  {
+    "question": "I am writing my Master's thesis on Graph Neural Networks while working as a part-time Graduate Teaching Assistant. Which MLOps frameworks are expected for industry entry roles?",
+    "expected_stage": "College",
+    "answer": "Hello! As your PathwayAI mentor, I can certainly help you identify the industry-standard frameworks for your transition into an MLOps role.\n\nBased on the core technical skills required for MLOps, you should focus on mastering the following pipeline automation and model monitoring frameworks to be competitive for industry entry roles:\n\n*   **Pipeline Automation:** You should gain proficiency in **Kubeflow**, **MLflow**, **Airflow**, and **DVC**. These are essential for automating the deployment and management of ML models.\n*   **Model Monitoring:** You should familiarize yourself with **Prometheus**, **Grafana**, and **Evidently AI**. These tools are expected for tracking and monitoring model performance in production environments.\n\nAdditionally, ensure you are comfortable with the cloud platforms mentioned in our pathway, specifically **AWS (SageMaker)** or **GCP (Vertex AI)**, as these are frequently used in conjunction with the frameworks listed above.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provided a highly accurate and relevant response that strictly adhered to the provided context while maintaining a professional and encouraging tone suitable for a graduate student."
+    }
+  },
+  {
+    "question": "Our university curriculum only covers relational databases, but I want to master NoSQL for my semester mini-project. Where should I begin?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI, your career mentor. To master NoSQL for your mini-project, you should focus on the following areas outlined in the \"Database Fundamentals & SQL Mastery\" section of your pathway:\n\n*   **Core Technologies:** Begin by exploring **MongoDB, Cassandra, and DynamoDB**. These are the specific NoSQL systems identified as essential for your target role as a Data Engineer.\n*   **Architectural Concepts:** Move beyond simple storage by studying **Data Replication** and **Sharding strategies**. These are critical for understanding how NoSQL databases handle scale and distribution.\n*   **Practical Application:** Your key goal is to build high-performance database architectures. As you work on your mini-project, focus on how these NoSQL systems differ from the relational databases you’ve learned in your curriculum, specifically regarding how they handle data modeling in a distributed environment.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 4,
+      "overall": 5,
+      "comment": "The answer is highly accurate to the provided context and directly addresses the user's need for NoSQL guidance. It strikes a good balance between conceptual theory and practical application suitable for a college student."
+    }
+  },
+  {
+    "question": "I am taking high school level remedial math courses online to clear prerequisites for my university CS enrollment next month. What discrete math topics matter most?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI, your career mentor.\n\nBased on the provided context, there is no mention of discrete math topics. The curriculum for the **AI Research Engineer** role focuses specifically on:\n\n*   **Linear Algebra:** SVD and Eigenvalues.\n*   **Multivariable Calculus:** Optimization and Gradients.\n*   **Probability/Statistics.**\n\nSince your goal is to prepare for your university CS enrollment, I recommend focusing your efforts on mastering these specific areas of mathematics, as they are the foundational requirements for the AI Research Engineer pathway.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 3,
+      "stage_awareness": 2,
+      "actionability": 2,
+      "overall": 3,
+      "comment": "The AI correctly identifies that the context lacks the requested information, but it fails to provide general career guidance on discrete math (which is standard for CS prerequisites) and incorrectly suggests high-level AI research topics to a student currently in remedial high school math."
+    }
+  },
+  {
+    "question": "I am a 2nd year CS student. How many LeetCode questions should I target before campus placement season begins in 4th year?",
+    "expected_stage": "College",
+    "answer": "Hello! As your PathwayAI career mentor, I recommend that you target **150+ LeetCode Medium/Hard problems** before your placement season begins. \n\nTo be most effective, ensure these problems cover the core patterns mentioned in our strategy, specifically:\n*   Two Pointers\n*   Sliding Window\n*   Graph Traversals\n*   Backtracking",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 4,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately extracted the specific target from the context and provided a clear, actionable roadmap. It is well-tailored to a CS student's preparation timeline."
+    }
+  },
+  {
+    "question": "I am in my 3rd year of college. How do I choose between targeting product-based companies vs service-based companies for internships?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI. Based on the learning pathway and project recommendations provided, here is how you can approach your internship decision:\n\nTo choose between product-based and service-based companies, evaluate which environment will best help you master the skills outlined in your learning phases:\n\n*   **Target Product-Based Companies if:** You want to focus on the **Advanced Phase** of your development. These companies will provide the best environment to practice formulating multi-quarter product strategy roadmaps, executing product-led growth strategies, and aligning cross-functional teams. This is the ideal setting to complete your **Advanced Project**: creating a 12-month product launch plan and roadmap for an AI software product.\n*   **Target Service-Based Companies if:** You want to build a strong foundation in the **Beginner and Intermediate Phases**. These environments often involve working on a variety of client projects, which can provide excellent exposure to different product development lifecycles, Agile frameworks, and the practical application of prioritization frameworks like RICE or MoSCoW. This is a great setting to complete your **Intermediate Project**: drafting a feature PRD with a clear problem statement, user stories, and success metrics.\n\n**Practical Next Step:**\nRegardless of the company type, use your internship to build your portfolio. If you choose a service-based company, focus on mastering the **Beginner Phase** skills (like analytics tracking and user story writing). If you choose a product-based company, push yourself to take ownership of a feature or roadmap element to satisfy the **Advanced Phase** requirements.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively maps the provided learning pathway to the user's career decision, providing a logical framework for choosing between company types while maintaining high relevance to a college student's development."
+    }
+  },
+  {
+    "question": "How can I pitch an open-source contribution as a major academic project to my college faculty?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI, your career mentor. To pitch an open-source contribution as a major academic project to your faculty, you should frame it through the lens of **industry readiness and technical rigor** as outlined in our Phase 4 guidelines.\n\nHere is how you can structure your pitch:\n\n*   **Emphasize Reproducibility and Documentation:** Explain that your project involves maintaining clean, reproducible open-source repositories. Highlight that you are not just writing code, but also producing research summaries or technical blog posts that document your methodology, which demonstrates academic depth.\n*   **Highlight Real-World Application:** Pitch your contribution as a practical application of system design and ML architecture. For example, if you are contributing to an open-source AI project, frame it as an exercise in understanding complex, large-scale codebases—a key skill for industry-level ML engineering.\n*   **Connect to High-Impact Competencies:** Use the \"High-Impact Portfolio Projects\" as a benchmark. If your contribution involves security or automation (like the Home Lab SOC or the Automated Incident Response Script), explain to your faculty that you are building \"industry-ready\" tools that simulate real-world attack vectors and defensive responses.\n*   **Focus on Peer Review and Networking:** Position your contribution as a professional networking activity. Explain that by submitting code to established open-source projects, you are subjecting your work to peer review by industry professionals, which validates the quality and academic merit of your work beyond the classroom.\n\n**Practical Tip:** When meeting with your faculty, bring a link to your GitHub repository. Show them the \"clean\" structure of your code and the technical documentation you have written, as these are the specific deliverables required for Phase 4 success.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively synthesizes the provided context to create a persuasive academic pitch, successfully bridging the gap between industry-focused guidelines and academic requirements."
+    }
+  },
+  {
+    "question": "I am a 3rd year IT student. Should I learn Docker and Kubernetes during college or wait until I get a DevOps job?",
+    "expected_stage": "College",
+    "answer": "Hello! As your career mentor, I recommend that you start learning these technologies during college rather than waiting until you land a DevOps job.\n\nAccording to the provided learning pathway, **Docker** is a key component of the **Intermediate Phase**, while **Kubernetes** is a core skill for the **Advanced Phase**. By learning these during your studies, you will be well-prepared to handle the transition into a professional role.\n\nHere is a practical approach based on the pathway:\n\n*   **During your Intermediate Phase:** Focus on building containerized applications using Docker and automating multi-container setups with Docker Compose.\n*   **During your Advanced Phase:** Move on to orchestrating those containers at scale using Kubernetes.\n\nStarting now will allow you to build a strong foundation in containerization and orchestration, which are essential skills for modern infrastructure and development roles.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides an excellent, context-aware response that directly answers the user's question by mapping the requested technologies to the provided learning pathway."
+    }
+  },
+  {
+    "question": "How do I balance semester GPA exams with off-campus internship preparation?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI. To balance your semester GPA exams with your internship preparation, you should prioritize high-impact, time-efficient activities based on the following strategy:\n\n**1. Prioritize High-Impact Portfolio Projects**\nInstead of spreading yourself thin, focus on building one of the two recommended projects that demonstrate both security and engineering rigor:\n*   **Home Lab SOC Environment:** Set up a virtual lab using PfSense, Elastic SIEM, and Windows/Linux agents to simulate attacks and visualize log detection.\n*   **Automated Incident Response Script:** Develop a Python script that parses web server logs, flags brute-force attempts, and automates IP blocking in local firewall rules.\n\n**2. Strategic Technical Preparation**\nIntegrate your preparation into your schedule by focusing on high-yield coding practice:\n*   **LeetCode Efficiency:** Dedicate time to practicing 150+ LeetCode Medium/Hard problems. Focus specifically on core patterns: Two Pointers, Sliding Window, Graph Traversals, and Backtracking.\n*   **Backend Focus:** If your coursework allows, align your class projects with building high-throughput, distributed backend systems (e.g., a custom key-value store or a distributed rate limiter). This allows you to satisfy academic requirements while simultaneously building your internship portfolio.\n\n**Practical Tip:** Use your academic projects as a foundation for your portfolio. By choosing to build distributed systems or security-focused scripts for your coursework, you can effectively \"double-dip,\" satisfying your GPA requirements while building the high-impact projects needed for internship applications.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides an excellent strategy for balancing academic and professional goals. It effectively synthesizes the retrieved context into actionable advice, specifically highlighting the 'double-dipping' strategy which is highly relevant for a college student."
+    }
+  },
+  {
+    "question": "What full-stack projects stand out most on a college undergraduate resume for software engineering roles?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI, your career mentor. To stand out for a Software Engineer role at Google as an undergraduate, you should focus on projects that demonstrate technical depth and proficiency with modern development practices.\n\nBased on the recommended projects for your level, the project that stands out most is:\n\n**Advanced: Full-stack Next.js blog or dashboard**\n\nTo make this project effective for your resume, ensure it incorporates the following specific technical elements:\n*   **Server-Side Rendering (SSR):** Demonstrate your understanding of how to optimize performance and SEO.\n*   **Authentication:** Implement secure user login/access control.\n*   **Tailwind UI Theme Switcher:** Showcase your ability to manage state and implement responsive, modern design systems.\n\nWhile this project is the most advanced, ensure your resume also reflects the core competencies Google looks for: strong Computer Science fundamentals, efficient coding, and the ability to build scalable solutions.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided context, maintained a professional tone, and provided actionable technical requirements that align perfectly with the user's academic stage."
+    }
+  },
+  {
+    "question": "I am in my 2nd year. Is getting a cloud certification (AWS/Azure) helpful for landing software developer internships?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the roadmap provided, here is the answer to your question:\n\nYes, obtaining a cloud certification is helpful for landing software developer internships, as it aligns with the **Phase 1: Cloud & Systems Foundations** requirements. \n\nTo be specific and practical, here is how you should approach this during your 2nd year:\n\n*   **Target the Associate Level:** Focus on the **AWS Certified Solutions Architect – Associate** or the **Microsoft Certified: Azure Administrator Associate**. These are the recommended certifications for your current stage.\n*   **Build Foundational Competence:** Use your certification study to gain hands-on competence in core cloud services, specifically compute, networking, storage, and IAM.\n*   **Integrate with System Design:** Don't just study for the exam; apply the knowledge to the foundational system design concepts mentioned in Phase 1, such as scalability, availability, caching, and database selection (relational vs. NoSQL).\n*   **Master the Prerequisites:** Ensure your certification efforts are supported by a strong grasp of Linux administration, shell scripting, and core networking (TCP/IP, HTTP/S, DNS, and Load Balancing), as these are essential components of the Phase 1 foundation.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides a highly accurate and actionable response that perfectly synthesizes the provided context with the user's academic stage, offering a balanced perspective on certification versus foundational skills."
+    }
+  },
+  {
+    "question": "What System Design topics are usually asked in fresh graduate entry-level software engineer interviews?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the context provided for the Embedded Systems Engineer role, here is the information regarding your interview preparation:\n\nWhile the provided context outlines the structure of the interview loop—specifically noting that one of the 4-5 onsite rounds will be a **System Design** round—it does not list specific technical topics for that round. \n\nHowever, to succeed in your interview, you should focus your preparation on the core responsibilities of an Embedded Systems Engineer:\n*   **Hardware-Software Integration:** Be prepared to discuss how your software interacts with hardware components, sensors, and actuators.\n*   **Communication Protocols:** Understand how to design systems that utilize various communication protocols.\n*   **Low-Level Programming:** Focus on designing software for dedicated hardware microcontrollers and embedded processors.\n\n**Practical Strategy:**\nSince you are interviewing for an Embedded Systems role, ensure your System Design preparation bridges the gap between high-level software architecture and low-level hardware constraints. \n\nFor the other stages of your interview, remember to:\n1.  **Refine your resume:** Use the **X-Y-Z formula** (\"Accomplished X, measured by Y, by doing Z\").\n2.  **Practice coding:** Prepare for 45-minute technical screens by practicing algorithmic problems in a plain text environment like Google Docs or CoderPad.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 4,
+      "stage_awareness": 5,
+      "actionability": 4,
+      "overall": 4,
+      "comment": "The AI correctly identified that the context lacked specific system design topics and provided helpful, role-specific inferences. It maintained high professional standards and stage-appropriate advice."
+    }
+  },
+  {
+    "question": "I am a final year student without any prior internships. How can I improve my chance of landing an entry-level job off-campus?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI. To improve your chances of landing an entry-level job off-campus as a final-year student, you should focus on the following practical steps based on your roadmap:\n\n**1. Build a Technical Foundation (Phase 1)**\nSince you lack internship experience, you must demonstrate technical competence through your own projects. Ensure you have mastered:\n*   **Core Systems:** Linux administration, shell scripting, and networking (TCP/IP, DNS, Load Balancing).\n*   **Cloud Proficiency:** Gain hands-on experience in AWS or Azure, specifically focusing on compute, networking, storage, and IAM services.\n*   **System Design:** Study foundational concepts like scalability, availability, caching strategies, and the differences between relational and NoSQL databases.\n\n**2. Develop a Professional Portfolio (Phase 4)**\nYour GitHub profile will serve as your primary evidence of skill. To stand out:\n*   **Maintain Clean Repositories:** Ensure your code is clean and reproducible.\n*   **Document Your Work:** Write technical blog posts or research summaries to demonstrate your depth of understanding.\n*   **Contribute to Open Source:** Actively submit code to open-source AI projects. This provides tangible proof of your ability to work on real-world codebases.\n\n**3. Focus on Industry Readiness (Phase 4)**\n*   **Networking:** Present your projects to peer communities to gain visibility.\n*   **Interview Preparation:** Begin preparing specifically for system design and ML architecture interviews, as these are critical for entry-level roles in this field.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively synthesized the provided roadmap into a structured, actionable plan for a student. It correctly identified that building a portfolio and technical foundation is the best substitute for missing internship experience."
+    }
+  },
+  {
+    "question": "How should I prepare for technical phone screens and live coding rounds during campus placements?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI, your career mentor. To prepare for your technical phone screens and live coding rounds, follow this strategy based on the provided guidelines:\n\n**1. Master the Technical Skills**\n*   **Beginner Phase:** Build a strong foundation by learning C programming and simple microcontroller programming (Arduino/ESP32).\n*   **Intermediate Phase:** Advance to bare-metal C/C++ programming. You must become comfortable working directly with hardware registers and interrupt handlers.\n*   **Advanced Phase:** Gain proficiency in implementing Real-Time Operating Systems (FreeRTOS) and mastering serial communication protocol debugging.\n\n**2. Practice for the Format**\n*   **Live Coding Environment:** Since your technical phone screen (45 minutes) and onsite coding rounds will be conducted live on Google Docs or CoderPad, practice solving 1-2 algorithmic problems in these text-based environments without the help of an IDE’s autocomplete or syntax highlighting.\n\n**3. Optimize Your Application**\n*   Before you reach the interview stage, ensure your resume is optimized using Google's **X-Y-Z formula**: \"Accomplished [X], measured by [Y], by doing [Z].\" This will help you secure the referral or screening necessary to reach the interview rounds.",
+    "scores": {
+      "faithfulness": 4,
+      "relevance": 5,
+      "stage_awareness": 4,
+      "actionability": 5,
+      "overall": 4,
+      "comment": "The AI effectively synthesizes the provided context. However, the 'Learning Pathway' section is highly specific to embedded systems/hardware engineering, which may not be relevant for general software engineering technical phone screens, potentially leading the user down an irrelevant path for a standard coding interview."
+    }
+  },
+  {
+    "question": "I am studying Electrical Engineering but want to switch to Software Engineering. What core CS courses must I audit?",
+    "expected_stage": "College",
+    "answer": "Hello! As PathwayAI, I have reviewed the provided context to assist with your transition.\n\nBased on the provided information, there is no mention of core Computer Science courses or a curriculum for switching from Electrical Engineering to Software Engineering. The context focuses exclusively on cybersecurity certifications and embedded systems resources. \n\nTo successfully transition, I recommend looking for university-level course catalogs that cover foundational Computer Science topics such as Data Structures, Algorithms, and Software Architecture, as these are not addressed in the provided documentation.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI correctly identified the limitations of the provided context, avoided hallucinating information, and provided helpful, stage-appropriate guidance for the user's transition."
+    }
+  },
+  {
+    "question": "What is the ideal timeline in college to apply for Google Summer of Code (GSoC) or similar open-source fellowships?",
+    "expected_stage": "College",
+    "answer": "Based on the provided context, there is no specific information regarding an ideal timeline in college to apply for Google Summer of Code (GSoC) or similar fellowships. \n\nHowever, to prepare for the industry readiness required for such opportunities, you should focus on the following practical steps:\n\n*   **Build your portfolio:** Maintain clean, reproducible open-source repositories on GitHub.\n*   **Demonstrate expertise:** Write research summaries or technical blog posts to showcase your knowledge.\n*   **Engage with the community:** Present your projects to peer communities and actively submit code to open-source AI projects.\n*   **Prepare for technical assessments:** Ensure you are proficient in algorithmic problem-solving (using the X-Y-Z formula for your resume) and prepare for system design and ML architecture interviews.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 4,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI correctly identified that the context lacked the specific timeline information and provided high-quality, actionable advice based on the available data to help the user prepare for such programs."
+    }
+  },
+  {
+    "question": "Should a 3rd year college student publish research papers or focus on building production-ready apps for industry jobs?",
+    "expected_stage": "College",
+    "answer": "Hello! As your PathwayAI career mentor, I recommend focusing on building production-ready projects to demonstrate industry readiness.\n\nBased on the provided context, you should prioritize the following practical deliverables to prepare for industry roles:\n\n*   **Build and Document:** Focus on creating a **GitHub portfolio** that features clean, reproducible open-source repositories. Instead of research papers, the context suggests writing **research summaries or technical blog posts** to accompany your work.\n*   **Execute Industry-Standard Projects:** Depending on your skill level, build projects that mirror real-world product management and engineering tasks:\n    *   **Beginner:** A detailed product teardown deck analyzing user onboarding friction.\n    *   **Intermediate:** A feature PRD (Product Requirements Document) including user stories, success metrics, and wireframes.\n    *   **Advanced:** A 12-month product launch plan and roadmap for an AI software product, including competitive analysis and a Go-To-Market strategy.\n*   **Engage with the Industry:** Rather than focusing solely on academic publication, use your projects for **networking and placement**. This includes presenting your work to peer communities, submitting code to open-source AI projects, and preparing specifically for system design and ML architecture interviews.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides a highly relevant and actionable response that aligns perfectly with the provided context, effectively guiding the student toward industry-ready deliverables rather than academic research."
+    }
+  },
+  {
+    "question": "What is the best approach to prepare for core CS subjects like OS, DBMS, and Computer Networks for campus interviews?",
+    "expected_stage": "College",
+    "answer": "Based on the provided context, there is no information regarding how to prepare for core CS subjects like OS, DBMS, or Computer Networks. The provided learning pathway focuses exclusively on server-side programming, REST APIs, asynchronous frameworks, and distributed system architecture.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 3,
+      "overall": 4,
+      "comment": "The AI correctly identified the lack of information in the context. While it was honest, it could have provided general external guidance or suggested where else to look to be more helpful to a college student."
+    }
+  },
+  {
+    "question": "How do college students convert a summer internship into a full-time job (PPO/Pre-Placement Offer)?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI. Based on the provided context, there is no information regarding how to convert a summer internship into a full-time job (PPO). The provided text focuses exclusively on technical career roadmaps for Production Engineering, Model Deployment, and Cloud/Systems Foundations.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 3,
+      "overall": 4,
+      "comment": "The AI correctly identified that the context was insufficient to answer the question, avoiding hallucinations. However, it missed an opportunity to provide general career guidance outside of the provided context, which would have been more helpful for a college student."
+    }
+  },
+  {
+    "question": "I am a 1st year CS undergrad. Should I focus on learning backend development, frontend, or competitive programming first?",
+    "expected_stage": "College",
+    "answer": "Hello! As PathwayAI, I can help you navigate your career path based on the provided learning pathways.\n\nRegarding your question, the provided context does not contain information about competitive programming, so I cannot offer guidance on that. However, you can choose between the two provided development paths based on your interests:\n\n**If you choose Backend Development:**\n*   **Beginner Phase:** Start by learning server-side programming, relational database querying with SQL, basic HTTP protocol operations, and building simple REST APIs.\n\n**If you choose Frontend Development:**\n*   **Beginner Phase:** Start by mastering semantic HTML, modern CSS layout techniques (Flexbox, Grid), responsive media queries, and core JavaScript DOM manipulation.\n\nSince you are a 1st-year CS undergrad, I recommend picking one of these \"Beginner Phase\" tracks to build a foundational skill set before moving on to the Intermediate and Advanced phases outlined in the pathways.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI correctly identified the limitations of the provided context regarding competitive programming and provided a clear, structured comparison of the available development paths suitable for a 1st-year student."
+    }
+  },
+  {
+    "question": "How important is an active GitHub profile for campus recruitment compared to DSA problem-solving ratings?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the provided context, here is the breakdown of how to prioritize your efforts for a Software Engineer role at Google:\n\n**The Priority: DSA and Fundamentals**\nFor a Google SWE role, the hiring emphasis is placed heavily on **strong Computer Science fundamentals, data structures, algorithms, and coding efficiency.** These are the core pillars of the interview process. You should prioritize mastering these over specific framework knowledge.\n\n**The Role of GitHub**\nWhile an active GitHub profile is not explicitly cited as a primary hiring filter, it serves a specific purpose in **Phase 4: Publication & Industry Readiness.** Maintaining clean, reproducible open-source repositories is a deliverable that demonstrates your ability to:\n*   Write professional, maintainable code.\n*   Engage with peer communities and open-source AI projects.\n*   Showcase your ability to build and deploy large-scale software solutions.\n\n**Practical Advice**\n*   **Balance:** Do not neglect your DSA problem-solving, as this is the primary benchmark for Google’s technical interviews. \n*   **Quality over Quantity:** Use your GitHub profile to demonstrate the \"Industry Readiness\" mentioned in Phase 4. Instead of just having a high volume of commits, focus on maintaining clean, reproducible repositories and writing technical summaries that prove you can communicate your work effectively.\n*   **Integration:** Use your GitHub to host the projects you intend to present to peer communities, which helps bridge the gap between your coding skills and the system design/ML architecture expertise required for interviews.\n\nIn summary: **DSA and fundamentals are your primary gatekeepers for Google, while an active, clean GitHub profile is your professional portfolio that demonstrates your practical engineering capabilities.**",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides a balanced, accurate, and highly professional response that correctly interprets the provided context while offering realistic industry expectations for a college student."
+    }
+  },
+  {
+    "question": "I am in my 4th year of college doing a Machine Learning project. How do I deploy my ML model to a live web server for evaluation?",
+    "expected_stage": "College",
+    "answer": "Hello! As PathwayAI, I can guide you through the practical steps to deploy your model based on the MLOps roadmap. To move your project from a local environment to a live web server, follow these steps:\n\n**1. Prepare for Deployment (Phase 2)**\n*   **Wrap your model:** Use **FastAPI** to create an API endpoint for your PyTorch or TensorFlow model. This allows your model to receive requests and return predictions over the web.\n*   **Track your artifacts:** Ensure you are using **MLflow** to track your model versioning and artifacts, which makes the deployment process more reproducible.\n\n**2. Containerize your Application (Phase 1)**\n*   **Dockerize:** Create a Dockerfile for your FastAPI application. This packages your model, code, and all necessary dependencies into a single container, ensuring it runs the same way on any server.\n\n**3. Orchestrate and Serve (Phase 1 & 2)**\n*   **Deployment:** Once containerized, you can deploy your Docker image to a cloud platform like **AWS (SageMaker)** or **GCP (Vertex AI)**. \n*   **Alternative:** For a live web server, you can use **Kubernetes** to orchestrate your container, ensuring it remains available for evaluation.\n\n**4. Monitor your Model**\n*   Once live, use **Prometheus** and **Grafana** to monitor the performance and health of your model in the production environment.\n\nBy following this path, you are applying core MLOps practices—moving from a static project to a production-ready service.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 4,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The answer is highly accurate, well-structured, and directly utilizes the provided MLOps context. It provides a professional roadmap that is challenging but appropriate for a 4th-year college student."
+    }
+  },
+  {
+    "question": "How can college students build networking connections with senior software engineers on LinkedIn for referral requests?",
+    "expected_stage": "College",
+    "answer": "As PathwayAI, I must clarify that the provided context focuses on technical skill acquisition (networking fundamentals, Linux, and security) rather than professional networking strategies. \n\nBased strictly on the provided context, there is **no information** regarding how to build connections with senior software engineers on LinkedIn or how to request referrals. The context is limited to the technical requirements and foundational knowledge needed for the Software Engineer role at Google.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 3,
+      "overall": 4,
+      "comment": "The AI correctly identified the lack of relevant information in the context. While it was honest and accurate, it could have provided general career guidance outside of the context to be more helpful to the student."
+    }
+  },
+  {
+    "question": "Is pursuing a Master's degree (MS/M.Tech) immediately after B.Tech better than gaining 2 years of work experience?",
+    "expected_stage": "College",
+    "answer": "Based on the provided context, there is no information regarding the value of a Master's degree versus gaining 2 years of work experience. The provided text focuses exclusively on technical career roadmaps, specifically outlining foundational skills in Cloud/Systems and IT/Network security.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 3,
+      "overall": 4,
+      "comment": "The AI correctly identified that the context was insufficient to answer the question. While it was honest and accurate, it could have provided general career guidance or suggested where the user might find such information to improve actionability."
+    }
+  },
+  {
+    "question": "What should be included in a final year CS capstone project presentation to impress both faculty and recruiters?",
+    "expected_stage": "College",
+    "answer": "To impress both faculty and recruiters during your final year CS capstone project presentation, you should align your deliverables with the standards of \"Phase 4: Publication, GitHub Portfolio & Industry Readiness.\" \n\nBased on the provided context, your presentation should include the following:\n\n*   **Clean, Reproducible GitHub Repository:** Ensure your project code is hosted on GitHub and is well-documented. Recruiters look for clean, reproducible code that demonstrates your ability to work in a professional environment.\n*   **Technical Documentation:** Supplement your code with a research summary or a technical blog post. This demonstrates your ability to communicate complex technical concepts clearly.\n*   **Evidence of Industry Readiness:** \n    *   **System Design & Architecture:** Be prepared to discuss the system design and ML architecture behind your project, as this is a key focus for technical interviews.\n    *   **Open-Source Contribution:** If applicable, highlight any contributions you have made to open-source AI projects, as this demonstrates active engagement with the broader developer community.\n*   **Professional Design Standards:** Depending on the complexity of your project, incorporate elements of professional design:\n    *   **For UI/UX-focused projects:** Showcase interactive prototypes (Figma), user journeys, and wireframes.\n    *   **For large-scale projects:** Present a comprehensive Design System, including color palettes, typography scales, and developer specifications. \n\nBy focusing on these elements, you demonstrate not only your technical coding ability but also your readiness for professional software engineering and design roles.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided context and structured it into a professional, actionable guide perfectly suited for a final-year CS student."
+    }
+  },
+  {
+    "question": "How do I structure a cold email to college alumni to ask for entry-level tech referrals?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI. Based on the provided context, there is no information regarding how to structure a cold email to college alumni. My guidance is limited to the specific technical roadmap and learning pathway provided.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 1,
+      "stage_awareness": 1,
+      "actionability": 1,
+      "overall": 2,
+      "comment": "While the AI correctly identified that the context lacked the requested information, it failed to provide any helpful external guidance or general best practices, resulting in a poor user experience."
+    }
+  },
+  {
+    "question": "I am a college sophomore. What is the difference between monolithic architecture and microservices for project planning?",
+    "expected_stage": "College",
+    "answer": "Hello! As your PathwayAI career mentor, I can help you understand these architectural approaches based on the context of your goal to become a Cloud Solutions Architect.\n\nWhen planning your projects, the difference between monolithic and microservices architecture centers on how you structure your components and manage your infrastructure:\n\n**Monolithic Architecture**\n*   **Structure:** All components of your application (the user interface, business logic, and data access) are bundled into a single, unified codebase and deployed as one unit.\n*   **Project Planning:** This is often simpler to start with for smaller projects. However, as the application grows, it becomes harder to scale individual parts, and a failure in one component can potentially bring down the entire system.\n\n**Microservices Architecture**\n*   **Structure:** The application is broken down into small, independent services that communicate over a network (often using APIs).\n*   **Project Planning:** This approach aligns with the **Serverless Microservices Pipeline** project mentioned in your portfolio guidelines. It requires you to plan for:\n    *   **Event-Driven Design:** Using tools like AWS Lambda/Azure Functions, API Gateway, and SQS/EventBridge to manage communication between services.\n    *   **Independent Scalability:** Because services are decoupled, you can optimize and scale specific parts of your infrastructure independently.\n    *   **Automated Deployment:** You must establish robust Infrastructure as Code (IaC) pipelines to manage the deployment of these multiple, distributed services.\n\n**Practical Advice for your Portfolio:**\nIf you are building your first high-impact project, start by mastering the **Multi-Tier High-Availability Infrastructure** (monolithic-style web app) to understand core networking and load balancing. Once you are comfortable, transition to the **Serverless Microservices Pipeline** to practice the complex, event-driven patterns that modern Cloud Solutions Architects use to build scalable, fault-tolerant systems.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides a clear, accurate technical distinction while effectively leveraging the provided portfolio projects to give the student a concrete roadmap for their career development."
+    }
+  },
+  {
+    "question": "How should college students prepare for HR and behavioral interview rounds alongside coding prep?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the provided guidelines, here is how you should prepare for your HR and behavioral interview rounds:\n\nTo succeed in the **Googliness & Leadership** round (which is one of the 5 rounds in the onsite interview loop), you should focus on the following:\n\n*   **Master the X-Y-Z Formula:** Your resume and your verbal responses regarding your past experiences must follow Google's X-Y-Z formula: \"Accomplished X, measured by Y, by doing Z.\" Ensure every project or work experience you discuss in behavioral interviews is framed using this structure to demonstrate clear impact and methodology.\n*   **Align with \"Googliness\":** While the context focuses on technical proficiency, the \"Googliness & Leadership\" round is a dedicated portion of your onsite loop. You should prepare stories that highlight your ability to handle ambiguity, lead initiatives, and work effectively within a team, ensuring these stories are structured using the X-Y-Z formula to provide concrete evidence of your contributions.\n\n**Note:** While you prepare for these behavioral rounds, ensure you are simultaneously progressing through the **Learning Pathway** (Beginner through Advanced phases) to ensure your technical foundation—ranging from manual testing to CI/CD pipeline integration—is strong enough to support your candidacy during the technical rounds of the interview process.",
+    "scores": {
+      "faithfulness": 4,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively bridges the gap between the provided interview strategy and behavioral preparation. It correctly identifies the 'Googliness' round and provides a practical application of the X-Y-Z formula for behavioral storytelling, though it slightly stretches the formula's intended use (which is typically for resume bullet points) to verbal responses."
+    }
+  },
+  {
+    "question": "What are the key differences between React and Vue for a university team project with a tight deadline?",
+    "expected_stage": "College",
+    "answer": "Based on the provided context, I cannot answer your question regarding the differences between React and Vue. The context focuses exclusively on a curriculum for a Full-Stack Web Developer that prioritizes React.js and Next.js, and it does not contain information about Vue.js.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 3,
+      "stage_awareness": 3,
+      "actionability": 2,
+      "overall": 3,
+      "comment": "While the AI correctly identified the lack of information in the context, it failed to provide helpful guidance as a career chatbot. It should have acknowledged the limitation but offered general industry knowledge or advice on how to choose between frameworks for a team project."
+    }
+  },
+  {
+    "question": "I am a 3rd year student wanting to focus on Data Engineering. What skills are essential besides SQL and Python?",
+    "expected_stage": "College",
+    "answer": "Hello! As your PathwayAI mentor, I can help you identify the essential skills for your transition into Data Engineering based on your target role requirements.\n\nBeyond SQL and Python, you should focus on the following technical areas to build a strong foundation:\n\n**1. Database Architecture & Management**\n*   **Relational Databases:** Gain proficiency in RDBMS like PostgreSQL and MySQL. Focus specifically on schema design, normalization, query optimization, and indexing to ensure high performance.\n*   **NoSQL & Distributed Systems:** Learn to work with non-relational databases such as MongoDB, Cassandra, and DynamoDB. Understand the mechanics of data replication and sharding strategies to handle large-scale data.\n\n**2. Data Modeling**\n*   Focus on mastering complex data modeling techniques. This is a key goal for building high-performance database architectures, which is central to the Data Engineering role.\n\n**3. Analytical Concepts (Leveraging your existing background)**\n*   While your focus is shifting to engineering, maintain your knowledge of **Exploratory Data Analysis (EDA)** and **Feature Engineering**. These concepts are vital for understanding the data pipelines you will be building and maintaining.\n\nBy mastering these architectural and modeling skills, you will be well-positioned to transition from your current technical background into a robust Data Engineering career.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided context to offer a clear, professional roadmap for a 3rd-year student. It correctly prioritized engineering-specific skills over the data science tools listed in the context."
+    }
+  },
+  {
+    "question": "How can I practice system design mock interviews with peers while still in college?",
+    "expected_stage": "College",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the provided context, here is how you can approach your preparation:\n\nWhile the provided context outlines the **Onsite Interview Loop** (which includes one System Design round) and the **Learning Pathway** for design skills, it does not explicitly detail peer-to-peer practice methods. However, to align with the requirements for the **Advanced Phase** of your learning, you should focus your mock interviews on the following practical areas:\n\n*   **Component Design Systems:** Practice explaining how you would structure scalable design systems, as this is a key competency in the Advanced Phase.\n*   **Developer Handoff:** During your mock sessions, simulate the \"clean handoff\" of assets to developer teams. This will help you practice the communication skills necessary for the System Design round.\n*   **User-Centric Architecture:** Use your knowledge from the Intermediate Phase (user flowcharts and high-fidelity prototypes) to justify your system design choices. When practicing with peers, explain how your system architecture supports the user flows you have mapped out.\n\nTo be most effective, ensure your mock interviews mirror the structure of the **Onsite Interview Loop**, dedicating one of your practice rounds specifically to System Design to build familiarity with the format.",
+    "scores": {
+      "faithfulness": 3,
+      "relevance": 2,
+      "stage_awareness": 3,
+      "actionability": 3,
+      "overall": 3,
+      "comment": "The AI conflated 'System Design' (software engineering) with 'Design Systems' (UI/UX design). While it correctly identified the context gap, it provided advice for a completely different career path, making the answer factually misaligned with the user's intent despite being well-structured."
+    }
+  },
+  {
+    "question": "Should I learn C++ or Java for object-oriented programming coursework and competitive coding in college?",
+    "expected_stage": "College",
+    "answer": "Based on the provided learning pathways, you should learn **C++**. \n\nAccording to the first learning pathway, C++ is a foundational requirement for the Beginner Phase of robotics, which also includes Python, linear algebra, vector calculus, and basic robotics kinematics. The provided context does not list Java as a recommended language for either the robotics or mobile development pathways.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 4,
+      "stage_awareness": 4,
+      "actionability": 4,
+      "overall": 4,
+      "comment": "The AI correctly identifies C++ based on the provided context. However, it fails to address the user's specific interest in 'competitive coding,' which is a significant factor for college students that the provided context does not cover."
+    }
+  },
+  {
+    "question": "I am in my final semester. What should I include in my developer portfolio to show production-level readiness?",
+    "expected_stage": "College",
+    "answer": "To demonstrate production-level readiness as you finish your final semester, you should focus on building high-throughput, distributed backend projects. Specifically, you should include:\n\n*   **Distributed Systems Projects:** Build complex backend systems such as a custom key-value store or a distributed rate limiter.\n*   **Open-Source Contributions:** Include meaningful pull requests (PRs) to established open-source projects.\n*   **Technical Depth:** Ensure your projects demonstrate your ability to handle high-throughput scenarios, which signals your readiness for production-level engineering environments.\n\nAdditionally, while your focus is on development, you can enhance your portfolio's professional quality by incorporating design elements from the recommended projects, such as creating a comprehensive corporate Design System (including color palettes, typography scales, and developer specs) to show you can bridge the gap between design and implementation.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the retrieved context to provide a high-quality, actionable response tailored to a final-year student aiming for production-level roles."
+    }
+  },
+  {
+    "question": "I have been in a non-tech corporate role for 3 years and am taking online bootcamps after office hours to shift into Data Science. What Python libraries are essential for production deployment?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! As your PathwayAI career mentor, I can help you identify the essential tools for your transition into Data Science based on your roadmap.\n\nTo move your models into production, you should focus on the following libraries and tools mentioned in your roadmap:\n\n*   **Model Serving:** Use **FastAPI** or **Triton Inference Server** to deploy your PyTorch or TensorFlow models.\n*   **Artifact Tracking:** Use **MLflow** or **Weights & Biases** to manage and track your model artifacts.\n\n**Practical Next Steps:**\nSince you are balancing a full-time role, I recommend starting with the **Beginner project** listed in your context: write custom Python scripts to monitor server disk space, memory, and CPU usage with automated email notifications. This will help you build the foundational monitoring skills necessary for production environments before you move into the more complex deployment phases.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the retrieved context, provided a direct answer to the user's specific question, and offered a highly actionable, stage-appropriate recommendation for a working professional."
+    }
+  },
+  {
+    "question": "I graduated with a B.E. last month and just signed an offer letter for an SDE-1 position starting next month. What system design topics should I study during my pre-onboarding phase?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! Congratulations on your new SDE-1 position. As you prepare for your start date, you should focus on the following system design topics outlined in the \"Cloud & Systems Foundations\" phase:\n\n*   **Core System Design Concepts:** Study the trade-offs between scalability and availability.\n*   **Caching Strategies:** Learn how caching is implemented to improve system performance.\n*   **Database Fundamentals:** Understand the differences between relational and NoSQL databases and when to use each.\n*   **Infrastructure Foundations:** Ensure you have a solid grasp of core networking (TCP/IP, HTTP/S, VPNs, DNS, and Load Balancing) and Linux administration, as these are essential for understanding how systems are deployed and managed.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI correctly identified the relevant section of the context and ignored the irrelevant 'Learning Pathway' section. The advice is perfectly tailored to a new SDE-1 hire."
+    }
+  },
+  {
+    "question": "I am mentoring high school students in robotics while managing my day-to-day work as a Senior DevOps Engineer. How can I transition internally to a Solutions Architect role?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! As PathwayAI, I can certainly help you map out a transition from your current role as a Senior DevOps Engineer to a Cloud Solutions Architect based on the professional requirements of these roles.\n\nTo transition internally, you should focus on shifting your current technical expertise toward the architectural and business-alignment responsibilities defined for a Cloud Solutions Architect:\n\n*   **Shift from Automation to Design:** While your current role focuses on automating workflows and CI/CD pipelines, start volunteering for projects that involve the initial design and implementation of scalable, fault-tolerant, and secure cloud infrastructure.\n*   **Adopt a Business-First Mindset:** Begin aligning your technical tasks with specific business requirements. Instead of focusing solely on the \"how\" of deployment, document how your infrastructure choices directly support the business goals of your organization.\n*   **Incorporate FinOps:** Start taking ownership of cost-efficiency within your current DevOps projects. Actively managing and optimizing cloud spend is a core responsibility of a Solutions Architect and will demonstrate your readiness for the role.\n*   **Establish Architectural Patterns:** Leverage your experience with Cloud Native principles to document and establish standardized architectural patterns for your team. Moving from \"managing infrastructure\" to \"establishing patterns\" is a key step in the transition.\n*   **Leverage Your Mentorship Experience:** Use your experience mentoring robotics students to demonstrate your ability to communicate complex technical concepts to different stakeholders—a critical skill for a Solutions Architect who must bridge the gap between business needs and cloud systems.\n\nBy focusing on these architectural and strategic responsibilities within your current organization, you can build the necessary experience to make an internal move.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively synthesizes the provided role definitions into a concrete career roadmap. It cleverly integrates the user's extracurricular mentorship experience as a soft-skill asset, which adds significant value beyond the provided context."
+    }
+  },
+  {
+    "question": "I have 2 years of experience as a Backend Developer in Java. How do I prepare for SDE-2 system design interviews at product companies?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the provided context for the Software Engineer role at Google, here is how you should prepare for your system design interview:\n\n**1. Focus on Fundamentals Over Frameworks**\nSince Google emphasizes strong Computer Science fundamentals and system design over specific framework knowledge, do not focus your preparation on Java-specific libraries or frameworks. Instead, dedicate your study time to mastering the core principles of designing large-scale software solutions.\n\n**2. Understand the Scope of the Interview**\nIn the Google onsite interview loop, you will face one dedicated System Design round. To prepare, ensure you are comfortable with:\n*   **Scalability:** Designing systems that can handle large-scale data and traffic.\n*   **Architecture:** Understanding how to structure complex, distributed software solutions.\n*   **Efficiency:** Focusing on how components interact and perform within a large system.\n\n**3. Align with the \"Googliness\" and Leadership Expectations**\nWhile preparing for the technical aspects of system design, remember that the onsite loop also includes a \"Googliness & Leadership\" round. Ensure your design approach reflects collaborative problem-solving and leadership qualities, as these are core components of the Google interview process.\n\n**4. Practice Coding Efficiency**\nWhile the system design round is distinct, remember that the overall interview process heavily weights algorithmic problem-solving. Continue to sharpen your ability to solve algorithmic problems live, as the technical phone screen and three of your onsite rounds will focus on these skills.\n\n**Practical Tip:** When describing your past experience in your resume or during the interview, ensure you use the **X-Y-Z formula** (\"Accomplished X, measured by Y, by doing Z\"). This will help you clearly articulate the impact of your backend development work in a way that aligns with Google’s hiring standards.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provided a highly accurate and well-structured response that strictly adhered to the provided context while offering practical, actionable advice tailored to a professional developer."
+    }
+  },
+  {
+    "question": "I am an QA Automation Engineer with 4 years of experience. What is the most effective roadmap to switch to a full-stack developer role?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! As PathwayAI, I am here to guide you based on the provided context.\n\nWhile the provided context focuses on the foundational requirements for a **QA Automation Engineer** (specifically Phase 1: Cloud & Systems Foundations), it does not contain a roadmap for transitioning into a **Full-Stack Developer** role.\n\nHowever, based on the **Phase 1** requirements provided, you can leverage your existing knowledge to begin your transition:\n\n*   **Build on your Cloud/Systems knowledge:** You already have a head start by mastering Linux, shell scripting, and core networking (TCP/IP, HTTP/S, DNS). These are critical for a Full-Stack Developer when deploying and managing applications.\n*   **Leverage your Cloud competence:** Since you are already gaining hands-on experience with AWS or Azure (compute, storage, IAM), you are well-positioned to understand how to host and scale the backend services you will eventually build as a Full-Stack Developer.\n*   **Apply your System Design knowledge:** Your study of scalability, availability, and database types (Relational vs. NoSQL) is directly applicable to Full-Stack development, as you will need these skills to architect robust applications.\n\nTo complete your transition, you would need to supplement this foundation with specific Full-Stack skills (such as frontend frameworks, backend API development, and database management) that are not outlined in the provided context.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 4,
+      "stage_awareness": 5,
+      "actionability": 3,
+      "overall": 4,
+      "comment": "The AI correctly identifies the limitations of the provided context and avoids hallucinating a roadmap. However, it could have been more actionable by explicitly listing the missing skill categories (e.g., React/Angular, Node/Python/Java) that the user needs to research outside of the provided context."
+    }
+  },
+  {
+    "question": "As a Software Engineer with 5 years experience, should I pursue an Executive MBA or a Master's in CS to advance to Engineering Management?",
+    "expected_stage": "Working Professional",
+    "answer": "Based on the provided context, neither an Executive MBA nor a Master’s in CS is required to advance to Engineering Management.\n\nThe context emphasizes that for a Software Engineer at Google, career advancement and hiring focus on:\n*   **Strong Computer Science fundamentals**\n*   **Data structures and algorithms**\n*   **System design**\n*   **Coding efficiency**\n\nIf you are looking to pivot toward a more specialized engineering leadership role, the context suggests that technical proficiency in areas like **pipeline automation** (Kubeflow, Airflow), **containerization** (Docker, Kubernetes), and **cloud platforms** (GCP, AWS) is the core focus for high-level engineering roles, rather than advanced business degrees.",
+    "scores": {
+      "faithfulness": 3,
+      "relevance": 4,
+      "stage_awareness": 3,
+      "actionability": 3,
+      "overall": 3,
+      "comment": "The answer relies on a slight hallucination; the provided context describes technical roles (SWE/MLOps) but does not explicitly state that an MBA or MSCS is unnecessary for Engineering Management. It conflates technical advancement with management advancement."
+    }
+  },
+  {
+    "question": "I am a frontend developer with 3 years of React experience. How do I transition to full-stack using Node.js and cloud services?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the roadmap provided, here is how you can transition from your current React experience into a Full-Stack Web Developer role:\n\n**1. Master the Next.js Full-Stack Architecture**\nSince you already have 3 years of React experience, your next step is to leverage the full capabilities of Next.js. Move beyond client-side rendering by mastering:\n*   **Server-Side Rendering (SSR) and Static Site Generation (SSG):** Learn how to fetch data on the server to improve performance and SEO.\n*   **App Router:** Transition your routing logic to the Next.js App Router.\n*   **Server Components:** Shift your focus to building architectures that utilize Server Components to reduce client-side JavaScript bundles.\n\n**2. Implement Advanced Backend Patterns**\nTo bridge the gap to full-stack, you must move beyond UI components and handle server-side logic:\n*   **Data Fetching & API Routes:** Use Next.js to build your own API endpoints, effectively replacing the need for a separate Node.js backend in many scenarios.\n*   **State Management:** Continue using your React knowledge, but integrate robust state management tools like **Zustand** or **Redux Toolkit** to handle complex data flows across your full-stack application.\n\n**3. Focus on Quality and Performance**\nA full-stack developer is responsible for the reliability of the entire application. You should:\n*   **Master Automated Testing:** Implement testing suites using **Jest** and **React Testing Library** to ensure your server-side logic and UI components are stable.\n*   **Web Performance Optimization:** Apply performance best practices to your full-stack architecture to ensure high-speed delivery and efficient resource management.\n\n**4. Modernize Your Tech Stack**\nEnsure your development environment is aligned with modern standards:\n*   **TypeScript:** If you aren't already, make TypeScript your primary language for both frontend and backend logic to ensure type safety across your entire stack.\n*   **Styling:** Utilize **Tailwind CSS** to maintain consistent, responsive, and accessible UI components as you scale your application.\n\nBy focusing on these specific areas within the Next.js ecosystem, you will effectively transition your existing React expertise into a comprehensive full-stack skill set.",
+    "scores": {
+      "faithfulness": 4,
+      "relevance": 4,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 4,
+      "comment": "The answer is highly actionable and well-tailored to a professional. However, it missed the user's specific request regarding 'cloud services,' which was not present in the retrieved context, leading to a slight hallucination/omission balance."
+    }
+  },
+  {
+    "question": "How can an SDE-1 with 1 year of experience start taking ownership of architectural decisions in a team setting?",
+    "expected_stage": "Working Professional",
+    "answer": "To start taking ownership of architectural decisions as an SDE-1, you should focus on the technical domains outlined in your roadmap while aligning with Google’s emphasis on system design and scalability. Based on the provided context, here is how you can practically transition into this role:\n\n**1. Master the Infrastructure Foundations (Phase 1)**\nYou cannot influence architecture if you do not understand the underlying deployment environment. \n*   **Action:** Take ownership of your team’s **CI/CD pipelines** using GitHub Actions. By optimizing these pipelines, you demonstrate an understanding of how code moves from development to production.\n*   **Action:** Propose improvements to **containerization strategies** using Docker and Kubernetes. Suggesting more efficient orchestration patterns shows you are thinking about the scalability and reliability of the system, which is core to the Google SWE role.\n\n**2. Lead Model Deployment & Serving (Phase 2)**\nIf your team works with machine learning, position yourself as the expert in how models are served.\n*   **Action:** Lead the implementation of **FastAPI or Triton Inference Server** for model deployment. By choosing the right serving framework, you are making a direct architectural decision that impacts latency and throughput.\n*   **Action:** Standardize **artifact tracking** using MLflow or Weights & Biases. Establishing these tools as a team-wide practice demonstrates leadership and a focus on maintaining high-quality, reproducible software solutions.\n\n**3. Align with Google’s Engineering Philosophy**\nSince Google prioritizes fundamentals over specific frameworks, your architectural suggestions should be grounded in these principles:\n*   **Focus on System Design:** When proposing changes, move beyond \"how to code it\" and focus on \"how it scales.\" Use your knowledge of data structures and algorithms to justify why a specific architectural choice is more efficient.\n*   **Prioritize Maintainability:** A Google SWE maintains large-scale solutions. Frame your architectural suggestions around how they will reduce technical debt, improve testing, or simplify long-term maintenance for the team.\n\n**Practical Step:** Start by volunteering to write a **Design Doc** for a small-to-medium feature. Use this document to propose a specific architectural approach (e.g., how to containerize a new service or how to structure the model serving pipeline), ensuring your proposal is backed by the technical foundations learned in Phases 1 and 2.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively bridges the gap between the provided technical roadmap and the user's career goal. It successfully contextualizes the specific tools mentioned in the context as vehicles for demonstrating architectural leadership."
+    }
+  },
+  {
+    "question": "I work in tech support and want to move into Cloud Architecture. Which AWS certifications and hands-on projects should I prioritize?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the roadmap provided, here is how you should prioritize your transition from tech support to Cloud Architecture:\n\n### **Prioritize These AWS Certifications**\nTo build your credentials, follow this progression:\n*   **Associate Level:** Start by earning the **AWS Certified Solutions Architect – Associate**. This will validate your foundational knowledge of cloud services.\n*   **Professional Level:** Once you have gained experience, aim for the **AWS Certified Solutions Architect – Professional** to demonstrate advanced expertise.\n\n### **Prioritize These Hands-On Projects**\nTo bridge the gap from tech support, focus your practical work on the following areas defined in Phase 1:\n\n1.  **Cloud Infrastructure:** Build projects that require you to configure core AWS services, specifically focusing on **compute, networking, storage, and IAM (Identity and Access Management)**.\n2.  **System Foundations:** Practice implementing **Linux administration and shell scripting**. Use these skills to automate tasks within your cloud environment.\n3.  **Networking:** Create projects that demonstrate your understanding of **TCP/IP, HTTP/S, VPNs, DNS, and Load Balancing**.\n4.  **System Design:** Design architectures that address specific challenges, such as:\n    *   **Scalability vs. Availability:** Build a setup that handles traffic spikes.\n    *   **Caching Strategies:** Implement caching to improve performance.\n    *   **Database Management:** Compare and contrast the use of **relational vs. NoSQL databases** by building small applications for each.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided roadmap, mapping the certifications and foundational skills into a logical, actionable plan for a working professional."
+    }
+  },
+  {
+    "question": "I am a Data Analyst with 2 years of experience wanting to move to Data Engineering. What tools should I focus on next?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! As your PathwayAI career mentor, I can help you transition from Data Analyst to Data Engineer. Based on the provided roadmap for the Data Engineer role, you should focus on mastering the following tools and technologies:\n\n**1. Relational Database Management Systems (RDBMS)**\n*   **Focus:** PostgreSQL and MySQL.\n*   **Practical Application:** Move beyond simple queries to focus on schema design, normalization, query optimization, and indexing to ensure high-performance database architecture.\n\n**2. NoSQL & Distributed Data Systems**\n*   **Focus:** MongoDB, Cassandra, and DynamoDB.\n*   **Practical Application:** Learn how to implement data replication and sharding strategies to manage data at scale.\n\n**Key Goal:** Your primary objective during this transition should be shifting your focus from analyzing existing data to building the high-performance architectures and complex data models that support that data.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided context, ignored the irrelevant Data Scientist section, and provided a clear, professional roadmap tailored to a working professional."
+    }
+  },
+  {
+    "question": "How do experienced developers balance learning new tech stacks (like Rust or Go) with long work hours and family commitments?",
+    "expected_stage": "Working Professional",
+    "answer": "As PathwayAI, I must note that the provided context does not contain information regarding work-life balance, time management strategies, or how to balance learning new tech stacks (like Rust or Go) with professional and personal commitments. \n\nThe provided context focuses exclusively on a structured **Learning Pathway** (Beginner to Advanced phases) and **Core Technical Skills** (Languages, Frameworks, Tools, and Concepts) for mobile and backend development.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 3,
+      "overall": 4,
+      "comment": "The AI correctly identified the lack of relevant information in the context. While it was honest and accurate, it could have provided general professional advice or suggested where to find such information to improve actionability."
+    }
+  },
+  {
+    "question": "I am a Senior Software Engineer preparing for staff-level promotion. How do I demonstrate cross-team technical leadership?",
+    "expected_stage": "Working Professional",
+    "answer": "To demonstrate cross-team technical leadership for a staff-level promotion as a Software Engineer at Google, you should focus on the following areas based on the provided context:\n\n*   **Drive Large-Scale Solutions:** Move beyond individual coding tasks by designing and maintaining large-scale software solutions that impact multiple teams. Your leadership should be evidenced by your ability to oversee the development, testing, and deployment of these complex systems.\n*   **Elevate Technical Standards:** Leverage your expertise in Computer Science fundamentals, data structures, and algorithms to influence the technical direction of teams outside your immediate scope. Act as a mentor or lead who ensures that coding efficiency and high-quality system design are prioritized across the organization.\n*   **Implement Quality Assurance Leadership:** Utilize your knowledge of testing methodologies (such as those found in the ISTQB Certified Tester Foundation Level) and automation tools (like Selenium) to establish cross-team testing frameworks. By standardizing how software is tested and deployed across different groups, you demonstrate the ability to improve engineering productivity and reliability at scale.\n*   **Focus on Fundamentals over Frameworks:** When leading cross-team initiatives, prioritize long-term architectural health and fundamental CS principles rather than specific framework knowledge. This approach ensures that your technical guidance remains relevant and scalable across diverse projects.",
+    "scores": {
+      "faithfulness": 3,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 4,
+      "overall": 4,
+      "comment": "The answer is highly relevant and actionable for a staff-level promotion. However, it suffers from minor hallucination by over-relying on the provided context (ISTQB/Selenium), which are entry-level certifications and not typically relevant for staff-level technical leadership at a company like Google."
+    }
+  },
+  {
+    "question": "I am returning to work after a 2-year career gap in software development. How should I explain this gap and update my skill set?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the provided roadmap, here is how you can address your career gap and update your skills:\n\n### Explaining Your Career Gap\nWhile the provided context does not offer specific advice on interview scripts, you can frame your gap by highlighting your commitment to re-skilling. Use your time spent engaging with the **Learning Pathway** and **Career Roadmap** as evidence of your proactive approach to staying current with modern development and product practices.\n\n### Updating Your Skill Set\nTo bridge your gap and align with current industry standards, you should focus on these two specific areas:\n\n**1. Technical Proficiency (Career Roadmap)**\n*   **Phase 1 (Foundations):** Master CI/CD pipelines using GitHub Actions and gain hands-on experience with containerization (Docker) and orchestration (Kubernetes).\n*   **Phase 2 (Deployment):** Learn to deploy PyTorch or TensorFlow models using FastAPI or Triton Inference Server, and implement artifact tracking using MLflow or Weights & Biases.\n\n**2. Product Development Competency (Learning Pathway)**\n*   **Beginner Phase:** Refresh your knowledge of product development lifecycles, Agile framework principles, and user story writing.\n*   **Intermediate Phase:** Practice using prioritization frameworks like RICE and MoSCoW, manage backlogs in Jira, and conduct customer discovery interviews to ensure your technical work is aligned with user needs.\n\nBy completing these phases, you will demonstrate both the technical rigor and the product-focused mindset required to re-enter the software development field effectively.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided context to offer a structured plan. It correctly identified the limitation regarding interview scripts while providing a logical strategy to leverage the roadmap as a narrative for the career gap."
+    }
+  },
+  {
+    "question": "I am working as a mainframe engineer with 6 years experience. How can I modernize my profile for modern backend microservices?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! I am PathwayAI. To modernize your profile from mainframe engineering to modern backend microservices, you should follow this structured progression based on your current experience:\n\n**1. Build Your Foundation (Beginner Phase)**\nSince you are transitioning from mainframe systems, focus on bridging the gap to web-based architectures:\n*   **Server-side Programming:** Transition your logic skills to modern server-side languages.\n*   **SQL & Databases:** Shift from mainframe data structures to relational database querying using SQL.\n*   **HTTP & APIs:** Learn the fundamentals of the HTTP protocol and practice building simple REST APIs to understand how modern web communication functions.\n\n**2. Develop Intermediate Competencies**\nOnce you have the basics, focus on the tools used in modern application development:\n*   **Frameworks:** Master asynchronous frameworks like **FastAPI** or **Express.js**.\n*   **Data Handling:** Learn Object-Relational Mapping (ORMs) to interact with databases more efficiently than traditional methods.\n*   **Security & Quality:** Implement user authentication protocols and adopt unit testing to ensure your code is robust and secure.\n\n**3. Transition to Microservices (Advanced Phase)**\nTo reach the level of a modern backend microservices engineer, focus on these high-level architectural skills:\n*   **Distributed Systems:** Learn to design distributed microservices architectures.\n*   **Performance Optimization:** Implement caching layers using **Redis** to improve speed.\n*   **Scalability:** Master the management of database migrations and build high-throughput event queues to handle large-scale data processing.\n\nBy following this pathway, you will leverage your existing engineering discipline while gaining the specific technical stack required for modern backend development.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively mapped the provided context to the user's specific career transition scenario. It maintained high relevance by acknowledging the user's background while providing a clear, actionable roadmap."
+    }
+  },
+  {
+    "question": "What strategies can a working professional use to prepare for system design and coding interviews in 3 months?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! I am PathwayAI, your career mentor. To prepare for your interviews within a 3-month timeframe, follow these specific strategies based on the provided guidelines:\n\n**Coding Interview Preparation**\n*   **Volume & Pattern Focus:** Dedicate your practice to solving 150+ LeetCode problems at the Medium and Hard difficulty levels.\n*   **Targeted Patterns:** Ensure your practice covers core algorithmic patterns, specifically: Two Pointers, Sliding Window, Graph Traversals, and Backtracking.\n*   **Environment Simulation:** Practice solving these problems live in a text-based environment like Google Docs or CoderPad to mirror the 45-minute technical phone screen format.\n\n**System Design Preparation**\n*   **Practical Project Building:** To prepare for the System Design round, build high-throughput, distributed backend projects. Examples include creating a custom key-value store or a distributed rate limiter.\n*   **Open Source Contribution:** Alternatively, focus on contributing to open-source projects via Pull Requests (PRs) to gain experience with complex, distributed systems.\n\n**Application Strategy**\n*   **Resume Optimization:** Before applying, ensure your resume utilizes Google’s \"X-Y-Z\" formula: \"Accomplished [X], measured by [Y], by doing [Z].\" This will help you pass the initial resume screening.\n\nBy balancing your time between these high-throughput project builds and rigorous algorithmic pattern practice, you will be well-positioned for the 4-5 round onsite interview loop.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided context into a structured, actionable plan perfectly suited for a working professional's 3-month timeline."
+    }
+  },
+  {
+    "question": "How do I transition from an individual contributor (IC) Software Engineer to an Engineering Manager (EM) path?",
+    "expected_stage": "Working Professional",
+    "answer": "Based on the provided context, I cannot answer your question. The provided information focuses exclusively on a **DevOps Engineer** career roadmap (covering CI/CD, containerization, and model deployment) and does not contain information regarding the transition from an Individual Contributor (IC) to an Engineering Manager (EM).",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI correctly identified that the provided context was irrelevant to the user's query and avoided hallucinating information, which is the correct behavior for a RAG-based system."
+    }
+  },
+  {
+    "question": "I am an SDE-2 leading a microservices migration project. What design patterns are essential for maintaining backward compatibility?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello, I am PathwayAI. Based on the context provided for your role, here are the essential design patterns for maintaining backward compatibility during your microservices migration:\n\n*   **Microservices Architecture:** Utilize this pattern to decouple services, allowing you to migrate individual components while keeping existing services operational.\n*   **Event-Driven Architecture:** Implement this to facilitate asynchronous communication between your legacy systems and new microservices, ensuring that changes in one service do not immediately break dependencies in others.\n*   **Load Balancing:** Use load balancing to route traffic effectively between your legacy infrastructure and new microservices, which allows for a gradual transition and the ability to roll back traffic if compatibility issues arise.\n\nAdditionally, ensure you leverage your **CI/CD pipelines (GitHub Actions, GitLab CI, ArgoCD, or Jenkins)** to automate testing for these patterns, ensuring that every deployment maintains the required backward compatibility.",
+    "scores": {
+      "faithfulness": 2,
+      "relevance": 4,
+      "stage_awareness": 3,
+      "actionability": 3,
+      "overall": 3,
+      "comment": "The model hallucinated that the provided context was relevant to an SDE-2 role, when the context was actually for an Embedded Systems Engineer. While the technical advice is generally correct for microservices, it ignores the mismatch in the provided source material."
+    }
+  },
+  {
+    "question": "How can working professionals contribute effectively to major open-source projects without impacting their full-time job obligations?",
+    "expected_stage": "Working Professional",
+    "answer": "To contribute effectively to open-source AI projects while balancing full-time job obligations, you should follow these practical steps based on the provided roadmap:\n\n*   **Focus on Reproducibility:** Ensure your contributions are clean and reproducible. By maintaining high-quality, well-documented code in your own repositories, you build the habits necessary to submit code to larger open-source projects efficiently without requiring excessive rework.\n*   **Leverage Industry-Standard Tooling:** Use the tools you are already mastering for your professional role—such as CI/CD pipelines (GitHub Actions), containerization (Docker), and orchestration (Kubernetes)—to streamline your contributions. Using these familiar workflows will reduce the time needed to set up development environments for open-source projects.\n*   **Strategic Networking:** Instead of spreading yourself thin, present your specific projects to peer communities. This allows you to gain feedback and visibility within the industry while staying focused on your existing work.\n*   **Integrate Documentation:** Combine your contribution efforts with your professional development by writing research summaries or technical blog posts about the open-source work you are doing. This serves as both a contribution to the community and a way to document your learning for your own career growth.\n*   **Prioritize System Design:** Use your open-source involvement as a practical way to prepare for system design and ML architecture interviews, ensuring that your extracurricular contributions directly support your long-term career goals.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively synthesized the provided roadmap to answer the user's question, providing practical advice that aligns with the professional's need for efficiency and career growth."
+    }
+  },
+  {
+    "question": "I have 8 years of IT experience in database administration. How do I transition to Big Data Platform Engineering?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! As PathwayAI, I can help you leverage your 8 years of database administration experience to transition into Big Data Platform Engineering. Based on the provided pathway, here is your practical roadmap:\n\n### 1. Leverage Your Foundation (Phase 1)\nSince you are already a DBA, you likely have a strong grasp of RDBMS. To transition, focus your efforts on the specific areas of **Phase 1** that bridge the gap to Big Data:\n*   **Master NoSQL & Distributed Data:** Shift your focus from traditional RDBMS to distributed systems. Specifically, gain hands-on experience with **MongoDB, Cassandra, and DynamoDB**.\n*   **Architectural Strategy:** Deepen your knowledge of **Data Replication and Sharding strategies**. These are critical for scaling data platforms beyond a single server.\n*   **Optimization:** Apply your existing SQL skills to **Query Optimization and Indexing** specifically for high-performance, large-scale database architectures.\n\n### 2. Bridge the Gap (Learning Pathway)\nEven with your DBA background, you must round out your engineering skillset to handle platform-level tasks:\n\n*   **Beginner Phase:** Ensure you are proficient in **server-side programming** and building **REST APIs**. This is essential for creating the interfaces that interact with your data platforms.\n*   **Intermediate Phase:** Focus on **asynchronous frameworks** (like FastAPI) and **Object-Relational Mapping (ORMs)**. These tools are vital for managing the data flow in modern, high-concurrency environments.\n*   **Advanced Phase (The \"Big Data\" Core):** This is where you will transition into Platform Engineering. You must:\n    *   **Design distributed microservices architectures.**\n    *   **Implement caching layers** using Redis to handle high-throughput demands.\n    *   **Build high-throughput event queues** to manage the massive data ingestion typical of Big Data platforms.\n    *   **Manage database migrations** at scale to ensure platform stability.\n\n**Practical Next Step:** Start by building a project that integrates a NoSQL database (like Cassandra) with an asynchronous framework (like FastAPI), focusing on implementing a sharding strategy to handle high-throughput data.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively maps the user's existing DBA experience to the provided context, creating a logical transition path. It correctly identifies the 'Advanced Phase' as the core for Big Data engineering and provides a concrete, actionable project suggestion."
+    }
+  },
+  {
+    "question": "As a working developer, what are the best practices for setting up local Kubernetes environments (like Minikube/Kind) for testing?",
+    "expected_stage": "Working Professional",
+    "answer": "As PathwayAI, I must inform you that the provided context does not contain information regarding best practices for setting up local Kubernetes environments like Minikube or Kind. \n\nThe context focuses on project recommendations ranging from beginner to advanced levels, specifically covering GitHub Actions, CI/CD pipelines, AWS EC2, Terraform, Prometheus/Grafana, and GitOps (ArgoCD).",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 2,
+      "overall": 4,
+      "comment": "The AI correctly identified that the context lacked the requested information. While honest, it failed to provide any external guidance or general best practices, leaving the user without a solution."
+    }
+  },
+  {
+    "question": "I am moving from a monolithic backend to serverless on AWS. What architectural pitfalls should our team watch out for?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! I am PathwayAI, your career mentor. Transitioning from a monolithic architecture to serverless requires a shift in how you handle event-driven workflows and infrastructure.\n\nBased on the context provided, here are the architectural pitfalls your team should watch out for when moving to a serverless environment on AWS:\n\n*   **Lack of Event-Driven Integration:** Avoid building \"monoliths in the cloud\" by failing to utilize an event-driven architecture. Ensure you are effectively leveraging **AWS Lambda** in conjunction with **EventBridge** or **SQS** to decouple your services rather than relying on synchronous, tightly coupled calls.\n*   **Manual Deployment Inconsistency:** A major pitfall is managing serverless resources manually. You must implement **Infrastructure as Code (IaC)** for your deployments. Without automated IaC, you risk configuration drift and deployment errors across your serverless microservices pipeline.\n*   **Neglecting Data Scalability:** When moving away from a monolithic database, ensure you are utilizing managed, scalable database solutions like **DynamoDB**. Failing to design your data layer for the specific access patterns of a serverless architecture can lead to performance bottlenecks.\n*   **Inadequate API Management:** Ensure your **API Gateway** is configured to handle the traffic patterns of your new microservices. Without proper API management, you may face issues with security, throttling, or data integrity as you scale your serverless endpoints.\n\nFocus on building a robust, automated pipeline to manage these components, as this is critical for maintaining high performance and scalability in a serverless environment.",
+    "scores": {
+      "faithfulness": 4,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively synthesized the provided context to offer high-level architectural guidance. While it slightly extrapolated the 'pitfalls' from the project descriptions, the advice is accurate for a professional backend developer and highly actionable."
+    }
+  },
+  {
+    "question": "How do software engineers negotiate compensation packages (base, equity, bonuses) for mid-to-senior tech roles?",
+    "expected_stage": "Working Professional",
+    "answer": "I am sorry, but the provided context does not contain information regarding how to negotiate compensation packages for mid-to-senior tech roles. My instructions are to answer using only the provided context, which focuses on the role descriptions and hiring emphasis for Software Engineers at Google and Embedded Systems Engineers.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 2,
+      "stage_awareness": 3,
+      "actionability": 1,
+      "overall": 3,
+      "comment": "The AI correctly identified that the context was insufficient, which is faithful. However, it failed to provide any general guidance or external resources, leaving the user with no actionable path forward despite the professional context."
+    }
+  },
+  {
+    "question": "I am a Mobile Engineer (iOS) with 3 years experience. Should I learn Flutter or double down on Swift and native performance optimization?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! As your PathwayAI career mentor, I can help you weigh these options based on your current experience level.\n\nGiven that you are already an iOS Mobile Engineer with 3 years of experience, here is how you should approach your decision based on the provided learning pathway:\n\n**If you choose to double down on Swift and native performance:**\n*   **Focus on the Advanced Phase:** Since you already have 3 years of experience, you should move past the fundamentals. Focus on \"Optimizing application performance\" and mastering advanced native tools like CoreData and deep integration with Xcode. This path allows you to become a specialist in the Apple ecosystem, which is essential for high-performance, complex applications.\n\n**If you choose to learn Flutter:**\n*   **Focus on the Intermediate Phase:** You would need to learn the Flutter framework and its specific state management patterns (Provider or Bloc). This will broaden your utility by allowing you to build cross-platform applications. You would then need to bridge your native knowledge to the Advanced Phase by learning how to publish to both the Apple App Store and the Google Play Store.\n\n**Recommendation:**\n*   **If your goal is to build highly performant, complex iOS-specific apps:** Double down on Swift. Use your existing experience to master the \"Advanced Phase\" concepts like performance optimization and complex API integrations.\n*   **If your goal is to increase your marketability for cross-platform roles:** Learn Flutter. Your 3 years of native experience will give you a significant advantage when integrating Flutter with native modules or handling platform-specific performance issues.\n\n**Practical Next Step:**\nRegardless of your choice, ensure you are proficient in the \"Core Technical Skills\" listed for your path—specifically REST/GraphQL APIs and state management—as these are critical for both native and cross-platform career growth.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively maps the user's experience level to the provided learning pathway, offering a balanced, professional, and highly actionable recommendation that respects the user's current seniority."
+    }
+  },
+  {
+    "question": "How can working developers stay up to date with AI tools and LLM integrations without getting overwhelmed by trends?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! I am PathwayAI, your career mentor. To stay up to date with AI tools and LLM integrations without feeling overwhelmed, you should focus on practical application and building a tangible portfolio rather than just consuming trends.\n\nBased on the provided guidelines, here is how you can manage your learning effectively:\n\n*   **Focus on Concrete Deliverables:** Instead of trying to learn every new tool, channel your energy into the **Advanced project** recommendation: create a comprehensive 12-month product launch plan and roadmap for an AI software product. This forces you to conduct a competitive analysis and develop a Go-To-Market strategy, which grounds your learning in real-world business utility.\n*   **Engage in Open-Source Contributions:** Rather than passively reading about trends, actively submit code to open-source AI projects. This allows you to learn through hands-on experience and peer review, which is more efficient than keeping up with news cycles.\n*   **Document Your Learning:** Write research summaries or technical blog posts about the specific AI integrations you are working on. This helps you synthesize information and solidify your understanding of the tools you choose to use.\n*   **Prioritize Industry Readiness:** Shift your focus toward preparing for system design and ML architecture interviews. By focusing on these foundational skills, you ensure that your knowledge remains relevant regardless of which specific AI tools are trending at the moment.\n*   **Maintain a Clean Portfolio:** Keep your work organized in reproducible open-source repositories on GitHub. This ensures that your learning is cumulative and serves as a professional asset rather than a scattered collection of experiments.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively synthesized the retrieved context to provide a strategic, professional-grade answer that directly addresses the user's need to filter noise through practical application."
+    }
+  },
+  {
+    "question": "I am a Cyber Security Analyst wanting to pivot to DevSecOps. What CI/CD pipeline security tooling should I learn?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! As a Cybersecurity Analyst looking to pivot into DevSecOps, your focus should be on integrating security directly into the automated CI/CD pipelines mentioned in your context.\n\nTo implement secure CI/CD pipelines effectively, you should learn the following categories of tooling:\n\n*   **SAST (Static Application Security Testing):** Tools that analyze your application source code for vulnerabilities before it is compiled (e.g., SonarQube, Snyk, or Checkmarx).\n*   **SCA (Software Composition Analysis):** Tools that scan your application’s dependencies and open-source libraries for known vulnerabilities (e.g., OWASP Dependency-Check or Snyk).\n*   **Container Security Scanning:** Since you will be deploying infrastructure and application code, you must learn to scan container images for vulnerabilities before they are deployed (e.g., Trivy or Clair).\n*   **IaC (Infrastructure as Code) Scanning:** Tools that analyze your infrastructure configuration files (like Terraform or CloudFormation) for security misconfigurations before deployment (e.g., Checkov or tfsec).\n\nBy mastering these tools, you will be able to automate security checks within your CI/CD pipelines, ensuring that both your infrastructure and application code are deployed securely.",
+    "scores": {
+      "faithfulness": 4,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The answer provides excellent, industry-standard technical guidance. While the retrieved context was minimal, the AI correctly expanded on it with relevant domain knowledge without hallucinating information from the context itself."
+    }
+  },
+  {
+    "question": "What is the best way to document technical designs (RFCs/ADRs) when leading project initiatives at work?",
+    "expected_stage": "Working Professional",
+    "answer": "I am sorry, but the provided context does not contain information regarding how to document technical designs (RFCs/ADRs) when leading project initiatives. It focuses exclusively on recommended projects for product management and blockchain development, as well as relevant certifications.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 2,
+      "overall": 4,
+      "comment": "The AI correctly identified that the context was insufficient to answer the query. While it was honest and accurate, it failed to provide any general guidance or external resources that would be helpful for a working professional, making the response less actionable."
+    }
+  },
+  {
+    "question": "I have 4 years experience as a PHP backend developer. How do I transition to modern Go/Python cloud services?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! As your PathwayAI career mentor, I can help you map your transition from PHP backend development to modern Go/Python cloud services using the provided roadmap.\n\nSince you already have 4 years of backend experience, you can bypass the absolute basics and focus on these specific steps:\n\n### 1. Bridge the Language Gap (Learning Pathway)\n*   **Intermediate Phase:** Since you are already a backend developer, focus on mastering **FastAPI** (if choosing Python) or a similar high-performance framework. Prioritize learning **Object-Relational Mapping (ORMs)** and **user authentication** patterns in these new ecosystems.\n*   **Advanced Phase:** Shift your focus to **distributed microservices architectures**. Use your existing backend knowledge to implement **caching layers with Redis** and manage **database migrations** in a Go or Python environment. Build **high-throughput event queues** to align with modern cloud-native service requirements.\n\n### 2. Build Cloud & Systems Foundations (Phase 1)\nTo transition to \"cloud services,\" you must move beyond application code and master the infrastructure layer:\n*   **Systems Foundations:** Deepen your knowledge of **Linux administration** and **shell scripting**. Ensure you are proficient in core networking, specifically **Load Balancing, DNS, and VPNs**, which are critical for cloud-based services.\n*   **Cloud Provider Competence:** Choose either **AWS or Azure** and gain hands-on experience specifically in their **core compute, networking, storage, and IAM (Identity and Access Management) services**.\n*   **System Design:** Apply your 4 years of experience to study modern system design concepts, specifically focusing on **scalability vs. availability** and **caching strategies**. You should also solidify your understanding of when to use **relational vs. NoSQL databases** in a cloud-native architecture.\n\n**Practical Next Step:** Start by deploying a simple REST API (built in Python/FastAPI or Go) onto an AWS or Azure instance, ensuring you configure the IAM roles and networking (Load Balancing/DNS) manually to gain the required cloud competence.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI effectively synthesized the provided context, tailoring it perfectly to a professional with 4 years of experience by skipping redundant beginner steps and focusing on high-impact cloud and architectural skills."
+    }
+  },
+  {
+    "question": "How do senior developers evaluate whether to refactor legacy code or rewrite a service from scratch?",
+    "expected_stage": "Working Professional",
+    "answer": "As PathwayAI, I must inform you that the provided context does not contain information regarding how senior developers evaluate the decision to refactor legacy code versus rewriting a service from scratch. The context is limited to the definitions and core responsibilities of Backend Developers and Blockchain Developers.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 2,
+      "overall": 4,
+      "comment": "The AI correctly identified the lack of information in the context. However, it missed an opportunity to provide general professional guidance or suggest where the user might find that information, which would have been more helpful for a working professional."
+    }
+  },
+  {
+    "question": "I am a DevOps Engineer looking to transition into Site Reliability Engineering (SRE). What observability frameworks should I focus on?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! As you transition from DevOps to SRE, you should focus on the following observability frameworks based on your current skill level:\n\n*   **For Intermediate-level practice:** Focus on **Prometheus**. You should build an incident telemetry server that logs application health metrics, response latency, and failure rates to this platform.\n*   **For Advanced-level practice:** Focus on **OpenTelemetry** and **Jaeger**. You should implement these within a Kubernetes cluster to create a full observability suite, which will allow you to inject controlled faults to test system resiliency.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided context, mapping the recommended projects to the user's career transition needs with clear, actionable steps."
+    }
+  },
+  {
+    "question": "How do software engineers handle burnout and maintain high productivity in fast-paced startup environments?",
+    "expected_stage": "Working Professional",
+    "answer": "I am sorry, but the provided context does not contain information regarding how software engineers handle burnout or maintain productivity in startup environments. The context is limited to the roles and responsibilities of Software Engineers and Site Reliability Engineers at Google.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 1,
+      "overall": 4,
+      "comment": "The AI correctly identified that the provided context was insufficient to answer the prompt, preventing hallucination. However, it failed to provide general professional guidance or suggest where the user might find such information, which would have been more helpful for a working professional."
+    }
+  },
+  {
+    "question": "I am a Senior Frontend Engineer. How do I gain hands-on system architecture experience if my job only assigns UI tasks?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! I am PathwayAI, your career mentor. Based on the context provided for your target role as a Full-Stack Web Developer, here is how you can gain system architecture experience while currently limited to UI tasks:\n\nTo bridge the gap between your current Frontend role and the system architecture requirements of a Full-Stack position, you should focus on the architectural implications of the technologies you are already using:\n\n*   **Master Server-Side Rendering (SSR) and Server Components:** Since your target role requires proficiency in Next.js (App Router, Server Components, SSR/SSG), shift your focus from purely client-side UI to how these components interact with the server. Architecting how data is fetched and rendered on the server versus the client is a fundamental architectural skill.\n*   **Optimize State Management Architecture:** Move beyond simple UI state. Use Zustand or Redux Toolkit to design robust data-flow architectures that handle complex application state. Focus on how your state management choices impact the overall performance and scalability of the application.\n*   **Focus on Performance and Accessibility Architecture:** Use your UI tasks to practice \"architecting for performance.\" Instead of just building components, design them to be highly performant and accessible by default. This involves making architectural decisions about component composition, code splitting, and how your UI interacts with the browser’s rendering engine.\n*   **Bridge the Frontend-Backend Gap:** Even if you are only assigned UI tasks, study how your frontend architecture integrates with backend services. Analyze the API contracts and data structures you consume, and propose architectural improvements to how your frontend handles data fetching, caching, and error handling.\n\nBy treating your UI tasks as opportunities to design scalable, high-performance systems rather than just visual elements, you will build the architectural foundation necessary for your transition to a Full-Stack Web Developer.",
+    "scores": {
+      "faithfulness": 4,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI provides excellent, high-level advice that bridges the gap between the user's current constraints and their target role. It effectively uses the provided context while offering practical strategies for a Senior-level professional."
+    }
+  },
+  {
+    "question": "What is the expected depth of knowledge for distributed systems (e.g., CAP theorem, consensus algorithms) in Senior SDE interviews?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! I am PathwayAI. Based on the provided context, here is the expected depth of knowledge for distributed systems in Senior (L4+) SDE interviews:\n\nTo meet the hiring bar for Senior roles, you are expected to demonstrate proficiency in the following areas:\n\n*   **Core Concepts:** You must be able to apply the **CAP theorem** to architectural decisions.\n*   **Infrastructure & Scaling:** You should be prepared to discuss **database sharding**, **load balancing**, and **caching strategies** (specifically using tools like Redis or Memcached).\n*   **Architecture:** You must be capable of designing robust **distributed systems** and creating effective **API designs**.\n\nIn addition to these technical requirements, you are expected to demonstrate \"Googliness & Leadership\" by effectively handling ambiguity and utilizing the STAR interview method to communicate your experience.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 4,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided context. It correctly identified the requirements for Senior roles, though it could have been slightly more actionable by suggesting how to practice these concepts (e.g., mock interviews or system design case studies)."
+    }
+  },
+  {
+    "question": "How do working professionals build personal technical brands on platforms like GitHub, blogs, or tech conferences?",
+    "expected_stage": "Working Professional",
+    "answer": "To build your personal technical brand as a working professional, follow these practical steps based on the provided roadmap:\n\n*   **Maintain a GitHub Portfolio:** Focus on creating clean, reproducible open-source repositories. Ensure your code is well-documented and organized to demonstrate your technical proficiency.\n*   **Contribute to the Ecosystem:** Actively submit your code to existing open-source AI projects to increase your visibility within the developer community.\n*   **Publish Technical Content:** Write research summaries or technical blog posts to showcase your expertise and thought leadership in the field.\n*   **Engage in Networking and Presentations:** Present your projects to peer communities to gain exposure and build professional connections.\n*   **Prepare for Advanced Interviews:** Use your portfolio as a foundation to prepare for system design and ML architecture interviews, which further solidifies your standing as an industry-ready professional.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The answer is perfectly aligned with the provided context and provides clear, actionable steps tailored to a working professional looking to build a technical brand."
+    }
+  },
+  {
+    "question": "I am a Full Stack Developer preparing to apply for remote jobs in international companies. What resume adjustments are critical?",
+    "expected_stage": "Working Professional",
+    "answer": "Hello! I am PathwayAI, your career mentor. To optimize your resume for international Full-Stack Web Developer roles, you must implement the following critical adjustment based on the provided strategy:\n\n**Adopt the Google X-Y-Z Formula**\nYou must rewrite your professional experience bullet points to follow the specific **\"Accomplished X, measured by Y, by doing Z\"** structure. \n\n*   **X (Accomplishment):** State the specific result or impact you achieved (e.g., \"Improved UI performance\").\n*   **Y (Measurement):** Quantify that impact with metrics (e.g., \"by 30%\").\n*   **Z (Method):** Explain the technical action you took (e.g., \"by migrating legacy components to Next.js Server Components and optimizing state management with Zustand\").\n\n**Practical Application:**\nEnsure your resume highlights your proficiency in the core technologies listed in Phase 1 (JavaScript/TypeScript, React.js, Next.js, and Tailwind CSS) within these X-Y-Z statements to demonstrate that you can build responsive, high-performance UI components. This formula is essential for passing the initial resume screening process.",
+    "scores": {
+      "faithfulness": 5,
+      "relevance": 5,
+      "stage_awareness": 5,
+      "actionability": 5,
+      "overall": 5,
+      "comment": "The AI accurately synthesized the provided context, applying the specific X-Y-Z formula to the user's technical stack. It is highly relevant, actionable, and perfectly tailored for a working professional."
+    }
+  }
+]

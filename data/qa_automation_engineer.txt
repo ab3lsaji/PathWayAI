@@ -1,0 +1,24 @@
+ROLE: QA Automation Engineer
+
+OVERVIEW:
+QA Automation Engineers write automated testing scripts to verify software quality, performance, and functionality. They integrate test suites into continuous deployment pipelines to catch bugs early in the development lifecycle.
+
+CORE TECHNICAL SKILLS:
+- Languages: Python, JavaScript/TypeScript, Java
+- Automation Frameworks: Selenium, Cypress, Playwright, PyTest, JUnit
+- Testing Types: API Testing (Postman/REST Assured), End-to-End Testing, Regression Testing, Load Testing (Locust/JMeter)
+- CI/CD Integration: GitHub Actions, Jenkins, Allure Test Reporting
+
+LEARNING PATHWAY:
+1. Beginner Phase: Master manual software testing fundamentals, bug tracking workflows, and introductory Python/JavaScript programming.
+2. Intermediate Phase: Automate web interaction scripts using Cypress or Playwright, write API automated tests using PyTest/Postman, and execute regression suites.
+3. Advanced Phase: Integrate automated test suites into CI/CD pipelines, execute distributed parallel testing, and configure load testing with JMeter/Locust.
+
+RECOMMENDED PROJECTS:
+- Beginner: Manual test plan and executable test cases for an open-source web application.
+- Intermediate: End-to-end web test automation suite for an e-commerce platform using Playwright and PyTest.
+- Advanced: Continuous testing framework integrated with GitHub Actions that runs API and UI tests automatically on every code push with Allure HTML reporting.
+
+CERTIFICATIONS & RESOURCES:
+- ISTQB Certified Tester Foundation Level (CTFL)
+- Selenium Automation Engineer Certification

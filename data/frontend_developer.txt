@@ -1,0 +1,23 @@
+ROLE: Frontend Developer
+
+OVERVIEW:
+Frontend Developers create the visual elements, dynamic user interfaces, and client-side interactions of web applications. They translate UX design wireframes into clean, accessible, performance-optimized code running inside modern web browsers.
+
+CORE TECHNICAL SKILLS:
+- Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- Frameworks & Libraries: React, Next.js, Vue.js, Tailwind CSS
+- Concepts: DOM Manipulation, Responsive Web Design, Component Architecture, State Management, Web Performance Optimization, Web Accessibility (WCAG), REST/GraphQL integration
+
+LEARNING PATHWAY:
+1. Beginner Phase: Master semantic HTML, modern CSS layout techniques (Flexbox, Grid), responsive media queries, and core JavaScript DOM manipulation.
+2. Intermediate Phase: Build single-page applications using React and TypeScript, styling components with Tailwind CSS, and integrating external APIs.
+3. Advanced Phase: Develop full-stack web architectures using Next.js (Server-Side Rendering, App Router), implement web performance optimization, and master automated testing (Jest, React Testing Library).
+
+RECOMMENDED PROJECTS:
+- Beginner: Responsive personal portfolio website showcasing projects with clean CSS animations.
+- Intermediate: E-commerce product catalog with interactive filters, search bar, cart state management, and API data fetching.
+- Advanced: Full-stack Next.js blog or dashboard with Server-Side Rendering (SSR), authentication, and Tailwind UI theme switcher.
+
+CERTIFICATIONS & RESOURCES:
+- Meta Frontend Developer Professional Certificate
+- FreeCodeCamp Responsive Web Design and JavaScript Algorithms Certifications

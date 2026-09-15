@@ -1,0 +1,24 @@
+ROLE: Data Scientist
+
+OVERVIEW:
+Data Scientists extract actionable insights from structured and unstructured data using statistical analysis, machine learning algorithms, and data modeling. They solve complex business problems, design predictive models, and communicate findings to non-technical stakeholders.
+
+CORE TECHNICAL SKILLS:
+- Languages: Python, SQL, R
+- Libraries & Tools: Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, SciPy, Jupyter, Matplotlib, Seaborn
+- Concepts: Hypothesis Testing, Exploratory Data Analysis (EDA), Regression & Classification, Clustering, Time Series Analysis, Feature Engineering, A/B Testing
+
+LEARNING PATHWAY:
+1. Beginner Phase: Master Python programming, SQL querying, linear algebra, probability, and descriptive statistics.
+2. Intermediate Phase: Learn machine learning concepts, data cleaning, feature engineering, and model evaluation techniques using Scikit-Learn.
+3. Advanced Phase: Dive into deep learning frameworks (PyTorch/TensorFlow), natural language processing (NLP), model deployment via MLflow, and cloud platform integrations (AWS SageMaker / Azure ML).
+
+RECOMMENDED PROJECTS:
+- Beginner: Exploratory Data Analysis (EDA) on house prices or sales dataset using Pandas and Seaborn.
+- Intermediate: Customer Churn Prediction model using Scikit-Learn classification algorithms with hyperparameter tuning.
+- Advanced: End-to-end Sentiment Analysis pipeline deployed as an API endpoint using PyTorch and FastAPI.
+
+CERTIFICATIONS & RESOURCES:
+- IBM Data Science Professional Certificate
+- Google Advanced Data Analytics Certificate
+- Microsoft Certified: Azure Data Scientist Associate (DP-100)

@@ -1,0 +1,23 @@
+ROLE: Product Manager
+
+OVERVIEW:
+Product Managers guide the strategy, roadmap, and feature execution of digital products. They sit at the intersection of business strategy, technology, and user experience, prioritizing features that deliver measurable business value.
+
+CORE TECHNICAL SKILLS:
+- Strategy & Analytics: Product Roadmapping, Market Research, KPI & Metric Tracking, A/B Testing Analysis, Financial Modeling
+- Methodology: Agile, Scrum, Kanban, User Story Mapping
+- Tools: Jira, Confluence, Productboard, Mixpanel, Google Analytics, Figma
+
+LEARNING PATHWAY:
+1. Beginner Phase: Understand product development lifecycles, Agile framework principles, user story writing, and basic analytics tracking.
+2. Intermediate Phase: Practice prioritization frameworks (RICE, MoSCoW), manage product backlogs in Jira, and conduct customer discovery interviews.
+3. Advanced Phase: Formulate multi-quarter product strategy roadmaps, align cross-functional engineering and marketing teams, and execute product-led growth strategies.
+
+RECOMMENDED PROJECTS:
+- Beginner: Detailed product teardown deck analyzing user onboarding friction in a widely used mobile app.
+- Intermediate: Feature PRD (Product Requirements Document) complete with problem statement, user stories, success metrics, and high-level wireframes.
+- Advanced: Comprehensive 12-month product launch plan and roadmap for an AI software product, including competitive analysis and Go-To-Market strategy.
+
+CERTIFICATIONS & RESOURCES:
+- Certified Scrum Product Owner (CSPO)
+- Pragmatic Institute Product Management Certification

@@ -1,0 +1,25 @@
+ROLE: Mobile App Developer
+
+OVERVIEW:
+Mobile App Developers design, build, and maintain applications for smartphones and tablets across Android and iOS platforms. They focus on delivering smooth user interfaces, optimizing hardware resource usage, and integrating backend RESTful APIs.
+
+CORE TECHNICAL SKILLS:
+- Languages: Dart, Kotlin, Swift, TypeScript
+- Frameworks: Flutter, React Native, Jetpack Compose, SwiftUI
+- Tools & APIs: Android Studio, Xcode, Firebase, REST/GraphQL APIs, SQLite, CoreData
+- Concepts: State Management (Provider, Bloc, Redux), Offline Storage, Push Notifications, App Store / Play Store Publishing
+
+LEARNING PATHWAY:
+1. Beginner Phase: Learn fundamental object-oriented programming in Dart, Kotlin, or Swift, and build simple single-screen user interfaces.
+2. Intermediate Phase: Master modern UI design frameworks (Flutter or React Native), state management patterns, local database integration, and API integration.
+3. Advanced Phase: Optimize application performance, implement push notifications, integrate payment gateways, and publish apps to Apple App Store and Google Play Store.
+
+RECOMMENDED PROJECTS:
+- Beginner: Weather forecasting app fetching data from a free public REST API.
+- Intermediate: Expense tracker app with local SQLite persistence and interactive visualization charts.
+- Advanced: Real-time messaging app featuring Firebase authentication, WebSockets, offline caching, and push notifications.
+
+CERTIFICATIONS & RESOURCES:
+- Meta Android Developer Professional Certificate
+- Meta iOS Developer Professional Certificate
+- Associate Android Developer (Google)

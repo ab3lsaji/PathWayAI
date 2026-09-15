@@ -1,0 +1,24 @@
+ROLE: Embedded Systems Engineer
+
+OVERVIEW:
+Embedded Systems Engineers design and program low-level software that runs on dedicated hardware microcontrollers and embedded processors. They work directly with hardware components, sensors, actuators, and communication protocols.
+
+CORE TECHNICAL SKILLS:
+- Languages: C, C++, Assembly
+- Hardware & Architecture: ARM Cortex-M, ESP32, STM32, Microchip PIC, RISC-V, RTOS (FreeRTOS)
+- Protocols: UART, SPI, I2C, CAN Bus, BLE, Wi-Fi
+- Tools: Oscilloscopes, Logic Analyzers, GCC Toolchains, Keil, STM32CubeIDE, PlatformIO
+
+LEARNING PATHWAY:
+1. Beginner Phase: Learn C programming, electronic circuit basics, breadboarding, and simple microcontroller programming using Arduino/ESP32.
+2. Intermediate Phase: Transition to bare-metal C/C++ programming on ARM Cortex-M chips, working directly with hardware registers and interrupt handlers.
+3. Advanced Phase: Implement Real-Time Operating Systems (FreeRTOS), master serial communication protocol debugging, and design low-power wireless IoT node devices.
+
+RECOMMENDED PROJECTS:
+- Beginner: Temperature and humidity monitoring station reporting readings over I2C to an OLED display.
+- Intermediate: Bare-metal STM32 microcontroller driver for UART communication and analog-to-digital sensor conversion.
+- Advanced: FreeRTOS-based wireless sensor node on ESP32 running concurrent tasks for sensor sampling, telemetry, and low-power sleep management.
+
+CERTIFICATIONS & RESOURCES:
+- Arm Accredited Engineer (AAE)
+- Embedded Linux Systems Engineering (Linux Foundation)

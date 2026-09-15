@@ -1,0 +1,26 @@
+ROLE: DevOps Engineer
+
+OVERVIEW:
+DevOps Engineers bridge the gap between software development and IT operations by automating build, deployment, testing, and infrastructure management workflows. They ensure continuous integration, continuous delivery (CI/CD), high reliability, and scalable infrastructure performance.
+
+CORE TECHNICAL SKILLS:
+- Languages & Scripting: Bash, Python, YAML
+- CI/CD Tools: GitHub Actions, GitLab CI, Jenkins, Azure Pipelines
+- Infrastructure as Code & Containers: Docker, Kubernetes, Terraform, Ansible
+- Cloud & Monitoring: AWS, Azure, Google Cloud, Prometheus, Grafana, CloudWatch
+
+LEARNING PATHWAY:
+1. Beginner Phase: Master Linux system administration, shell scripting, Git version control, and networking fundamentals.
+2. Intermediate Phase: Build containerized applications using Docker, automate multi-container setups with Docker Compose, and build automated CI/CD pipelines.
+3. Advanced Phase: Orchestrate containers at scale using Kubernetes, provision cloud infrastructure declaratively using Terraform, and implement full observability stacks.
+
+RECOMMENDED PROJECTS:
+- Beginner: Automate application testing and container image creation using GitHub Actions.
+- Intermediate: Multi-stage CI/CD pipeline deploying a containerized Web App to an AWS EC2 instance.
+- Advanced: Provision an AWS EKS (Kubernetes) cluster using Terraform, deploying an microservice application with automated Prometheus/Grafana monitoring.
+
+CERTIFICATIONS & RESOURCES:
+- Linux Foundation Certified System Administrator (LFCS)
+- HashiCorp Certified: Terraform Associate
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified DevOps Engineer - Professional

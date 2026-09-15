@@ -1,0 +1,25 @@
+ROLE: Site Reliability Engineer (SRE)
+
+OVERVIEW:
+Site Reliability Engineers apply software engineering methodologies to IT operations problems to create highly scalable and reliable software systems. They balance feature velocity with system stability through automation, incident response management, error budget tracking, and performance tuning.
+
+CORE TECHNICAL SKILLS:
+- Programming Languages: Python, Go, Bash
+- System & Networking: Linux Kernel Internals, TCP/IP, DNS, Load Balancing, System Calls
+- Reliability Concepts: Service Level Indicators (SLIs), Service Level Objectives (SLOs), Service Level Agreements (SLAs), Error Budgets
+- Tools: Kubernetes, Terraform, Prometheus, Jaeger, OpenTelemetry, PagerDuty, Chaos Mesh
+
+LEARNING PATHWAY:
+1. Beginner Phase: Develop deep proficiency in Linux system administration, shell scripting, networking protocol analysis, and basic Python automation.
+2. Intermediate Phase: Implement containerization, cloud infrastructure automation, and automated alerting metrics based on SLIs and SLOs.
+3. Advanced Phase: Perform root-cause analysis on distributed systems, conduct chaos engineering experiments, and implement automated self-healing mechanisms.
+
+RECOMMENDED PROJECTS:
+- Beginner: Write custom Python scripts to monitor server disk space, memory, and CPU usage with automated email notifications.
+- Intermediate: Build an incident telemetry server logging application health metrics, response latency, and failure rates to Prometheus.
+- Advanced: Implement a full observability suite with OpenTelemetry and Jaeger on a Kubernetes cluster, injecting controlled faults to test resiliency.
+
+CERTIFICATIONS & RESOURCES:
+- Google Cloud Professional Cloud DevOps / SRE Engineer
+- Certified Kubernetes Application Developer (CKAD)
+- Linux Foundation Certified Engineer (LFCE)

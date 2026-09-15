@@ -1,0 +1,15 @@
+Target Role: Full-Stack Web Developer
+
+Phase 1: Modern Frontend Development
+- Core Tech: JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS.
+- Frameworks: React.js, Next.js (App Router, Server Components, SSR/SSG), State Management (Zustand, Redux Toolkit).
+- Key Goal: Build responsive, accessible, and high-performance UI components with optimal client rendering.
+
+Phase 2: Backend Architecture & API Design
+- Core Tech: Node.js/Express or Python (FastAPI), RESTful API standards, GraphQL, WebSockets for real-time communication.
+- Security & Auth: OAuth2, JWT tokens, CORS policy configuration, Input Sanitization, Rate Limiting.
+- Key Goal: Engineer secure, scalable backend APIs with clear separation of concerns.
+
+Phase 3: Cloud, DevOps & Production Deployment
+- Tech Stack: PostgreSQL/Prisma ORM, Docker containers, CI/CD pipelines (GitHub Actions), Cloud platforms (Vercel, AWS S3/EC2).
+- Key Goal: Containerize applications and set up continuous integration for automated testing and deployment.

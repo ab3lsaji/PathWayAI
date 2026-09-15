@@ -1,0 +1,23 @@
+ROLE: UI/UX Designer
+
+OVERVIEW:
+UI/UX Designers conduct user research, design intuitive user journeys, and create visual interfaces for web and mobile products. They bridge human behavior with digital software usability to ensure seamless end-user experience.
+
+CORE TECHNICAL SKILLS:
+- Design Tools: Figma, Adobe XD, Framer, Miro
+- Concepts: User Research, Wireframing, Information Architecture, Interactive Prototyping, Usability Testing, Accessibility (WCAG), Design Systems
+- Deliverables: User Personas, User Flow Diagrams, Low-Fi & High-Fi Mockups, Component Libraries
+
+LEARNING PATHWAY:
+1. Beginner Phase: Master visual design fundamentals (typography, color theory, alignment, grids) and basic vector editing in Figma.
+2. Intermediate Phase: Conduct user research, define user personas, map out user flowcharts, and build interactive high-fidelity prototypes.
+3. Advanced Phase: Establish comprehensive component design systems, conduct structured usability testing sessions, and hand off assets to developer teams cleanly.
+
+RECOMMENDED PROJECTS:
+- Beginner: Redesign of a poorly structured local business landing page mockup in Figma.
+- Intermediate: End-to-end mobile app design concept complete with wireframes, user journeys, and interactive Figma prototype.
+- Advanced: Comprehensive corporate Design System including color palettes, typography scales, interactive components, and developer specs.
+
+CERTIFICATIONS & RESOURCES:
+- Google UX Design Professional Certificate
+- Nielsen Norman Group UX Certification

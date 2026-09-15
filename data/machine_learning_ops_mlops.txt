@@ -1,0 +1,24 @@
+ROLE: Machine Learning Operations (MLOps) Engineer
+
+OVERVIEW:
+An MLOps Engineer bridges the gap between Machine Learning and Software Engineering by automating, deploying, and monitoring ML models in production environments.
+
+CORE TECHNICAL SKILLS:
+- Languages: Python, Bash, Go
+- Containerization & Orchestration: Docker, Kubernetes, Helm
+- Pipeline Automation: Kubeflow, MLflow, Airflow, DVC
+- Model Monitoring: Prometheus, Grafana, Evidently AI
+- Cloud Platforms: AWS (SageMaker), GCP (Vertex AI)
+
+CAREER ROADMAP & PHASES:
+Phase 1: Production Engineering Foundations
+- Master CI/CD pipelines using GitHub Actions.
+- Learn containerization with Docker and container orchestration with Kubernetes.
+
+Phase 2: Model Deployment & Serving
+- Deploy PyTorch or TensorFlow models using FastAPI or Triton Inference Server.
+- Set up artifact tracking using MLflow or Weights & Biases.
+
+Phase 3: Continuous Training & Monitoring
+- Implement DVC for data version control.
+- Set up drift detection and automated re-training pipelines.

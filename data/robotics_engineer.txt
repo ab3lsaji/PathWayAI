@@ -1,0 +1,23 @@
+ROLE: Robotics Engineer
+
+OVERVIEW:
+Robotics Engineers design, construct, and program autonomous mechanical systems capable of interacting with the physical world. They integrate mechanical engineering, electronic control, sensor perception, and path planning algorithms.
+
+CORE TECHNICAL SKILLS:
+- Languages: C++, Python
+- Frameworks & Middleware: ROS / ROS2 (Robot Operating System), OpenCV, MoveIt, Gazebo Simulator
+- Core Domains: Kinematics, Dynamics, Computer Vision, SLAM (Simultaneous Localization and Mapping), Motion Planning, Sensor Fusion
+
+LEARNING PATHWAY:
+1. Beginner Phase: Master C++ and Python programming, linear algebra, vector calculus, and basic robotics kinematics concepts.
+2. Intermediate Phase: Learn ROS2 nodes, topics, services, and multi-sensor simulation in Gazebo.
+3. Advanced Phase: Implement SLAM for autonomous navigation, computer vision pipelines using OpenCV, and motion planning for robotic manipulators.
+
+RECOMMENDED PROJECTS:
+- Beginner: Simulated differential drive robot navigating obstacle courses in Gazebo simulator using basic wall-following logic.
+- Intermediate: Autonomous mobile robot (AMR) using ROS2 and LiDAR sensors to generate 2D maps via SLAM.
+- Advanced: Robotic arm pick-and-place system featuring OpenCV object identification, depth sensing, and MoveIt trajectory planning.
+
+CERTIFICATIONS & RESOURCES:
+- ConstructSim ROS2 Certification
+- Udacity Robotics Software Engineer Nanodegree

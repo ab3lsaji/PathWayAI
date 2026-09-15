@@ -1,0 +1,24 @@
+ROLE: Backend Developer
+
+OVERVIEW:
+Backend Developers engineer the server-side logic, database architectures, and API endpoints that power modern web applications. They ensure high performance, security, data integrity, and scalability across server workflows.
+
+CORE TECHNICAL SKILLS:
+- Languages: Python, Node.js/TypeScript, Go, Java, C#
+- Frameworks: FastAPI, Django, Express.js, Spring Boot, ASP.NET Core
+- Databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite
+- Architecture & Protocols: RESTful APIs, gRPC, GraphQL, Microservices, Authentication (JWT, OAuth2), Message Queues (RabbitMQ, Kafka)
+
+LEARNING PATHWAY:
+1. Beginner Phase: Learn server-side programming, relational database querying with SQL, basic HTTP protocol operations, and building simple REST APIs.
+2. Intermediate Phase: Master asynchronous frameworks (FastAPI or Express.js), Object-Relational Mapping (ORMs), user authentication, and unit testing.
+3. Advanced Phase: Design distributed microservices architectures, implement caching layers with Redis, manage database migrations, and build high-throughput event queues.
+
+RECOMMENDED PROJECTS:
+- Beginner: RESTful Task Management API with user authentication and SQLite database integration.
+- Intermediate: E-commerce backend platform with PostgreSQL schema, JWT authentication, payment provider sandbox integration, and role-based access control.
+- Advanced: Real-time collaborative platform backend using WebSockets, Redis caching, and microservices architecture.
+
+CERTIFICATIONS & RESOURCES:
+- Meta Backend Developer Professional Certificate
+- AWS Certified Developer - Associate

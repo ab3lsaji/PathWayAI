@@ -1,0 +1,40 @@
+ROLE: Cloud Solutions Architect
+
+OVERVIEW:
+A Cloud Solutions Architect designs, implements, and optimizes scalable, highly available, fault-tolerant, and secure cloud infrastructure environments. They align cloud systems with business requirements, manage cloud migrations, enforce cost-efficiency (FinOps), and establish architectural patterns using Cloud Native principles.
+
+CORE TECHNICAL SKILLS & DOMAINS:
+- Cloud Service Providers (CSPs): AWS (EC2, S3, VPC, IAM, RDS, EKS, Lambda), Microsoft Azure (VMs, Blob, VNet, Entra ID, AKS), or GCP (Compute Engine, GCS, VPC, IAM, GKE).
+- Infrastructure as Code (IaC): Terraform, AWS CloudFormation, Pulumi.
+- Networking & Security: Cloud VPC Design, Subnetting, Direct Connect/ExpressRoute, DNS (Route53), Cloud IAM, Zero Trust Architecture, Key Management (KMS).
+- Containerization & Orchestration: Docker, Kubernetes (KKS/GKE/AKS), Helm.
+- System Design & Patterns: Microservices, Event-Driven Architecture, Serverless, Load Balancing, Disaster Recovery (RPO/RTO), Multi-Cloud vs. Hybrid Cloud Strategies.
+- DevOps & CI/CD: GitHub Actions, GitLab CI, ArgoCD, Jenkins.
+
+CAREER ROADMAP & PHASES:
+
+Phase 1: Cloud & Systems Foundations
+- Master Linux administration, shell scripting, and core networking (TCP/IP, HTTP/S, VPNs, DNS, Load Balancing).
+- Gain hands-on competence in at least one major cloud provider (AWS or Azure) across core compute, networking, storage, and IAM services.
+- Study foundational system design concepts (scalability vs. availability, caching strategies, relational vs. NoSQL databases).
+
+Phase 2: Automated Infrastructure & Cloud Architecture
+- Master Infrastructure as Code using Terraform to provision modular, reusable multi-environment cloud infrastructures.
+- Learn containerization with Docker and Kubernetes cluster management (EKS/AKS/GKE).
+- Design secure cloud environments using Well-Architected Frameworks (Security, Reliability, Performance Efficiency, Cost Optimization, Operational Excellence).
+- Implement automated CI/CD pipelines to deploy both infrastructure and application code smoothly.
+
+Phase 3: Enterprise Architecture, FinOps & Resilience
+- Design complex system architectures (Event-Driven using Kafka/SQS, Serverless microservices, Multi-region active-active deployments).
+- Formulate Disaster Recovery strategies with strict Recovery Point Objectives (RPO) and Recovery Time Objectives (RTO).
+- Implement FinOps methodologies for cost visualization, resource optimization, and automated cloud budget enforcement.
+- Conduct architectural reviews, threat modeling, and regulatory compliance audits (SOC2, HIPAA, GDPR).
+
+CERTIFICATIONS ALIGNED:
+- Associate: AWS Certified Solutions Architect – Associate, Microsoft Certified: Azure Administrator Associate
+- Professional: AWS Certified Solutions Architect – Professional, Microsoft Certified: Azure Solutions Architect Expert, Google Cloud Professional Cloud Architect
+
+HIGH-IMPACT PORTFOLIO PROJECTS:
+1. Multi-Tier High-Availability Infrastructure with Terraform: Write reusable Terraform modules to deploy a highly available, multi-AZ Web App architecture on AWS/Azure including VPCs, Auto-Scaling Groups, Application Load Balancers, and managed databases.
+2. Serverless Microservices Pipeline: Build an event-driven architecture using AWS Lambda/Azure Functions, API Gateway, DynamoDB/CosmosDB, and SQS/EventBridge, with automated deployment via IaC.
+3. Kubernetes Cloud Migration Project: Containerize a monolithic application, configure a managed Kubernetes cluster (EKS/GKE), set up ingress controllers, and automate continuous delivery using GitOps (ArgoCD).

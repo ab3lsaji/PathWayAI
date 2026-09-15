@@ -1,0 +1,40 @@
+ROLE: Cybersecurity Analyst
+
+OVERVIEW:
+A Cybersecurity Analyst monitors, protects, and defends an organization's computer systems, networks, and data from cyber threats, vulnerabilities, and unauthorized access. They analyze security events, conduct vulnerability assessments, execute incident response protocols, and ensure regulatory compliance.
+
+CORE TECHNICAL SKILLS & DOMAINS:
+- Networking & Security Fundamentals: TCP/IP, OSI Model, DNS, DHCP, VPNs, Subnetting, Firewalls, Wireshark, Nmap.
+- Security Information & Event Management (SIEM): Splunk, Microsoft Sentinel, Elastic Security (ELK Stack), QRadar.
+- Operating Systems & Scripting: Linux (Bash/Shell), Windows Enterprise Administration, PowerShell, Python for automation.
+- Threat Intelligence & Frameworks: MITRE ATT&CK Framework, NIST Cybersecurity Framework (CSF), Cyber Kill Chain, OWASP Top 10.
+- Endpoint Detection & Response (EDR): CrowdStrike Falcon, Defender for Endpoint, SentinelOne.
+- Vulnerability Management: Nessus, Qualys, OpenVAS.
+
+CAREER ROADMAP & PHASES:
+
+Phase 1: IT & Network Fundamentals
+- Master foundational networking concepts (IP routing, firewalls, ports, protocols, and packet sniffing using Wireshark).
+- Gain deep familiarity with Linux administration (command line, permissions, process management) and Windows security internals.
+- Study security fundamentals covering CIA Triad (Confidentiality, Integrity, Availability), cryptography basics, and threat modeling.
+
+Phase 2: Security Operations & Threat Detection
+- Learn to configure and ingest logs into a SIEM tool (Splunk or Elastic Stack).
+- Practice writing detection rules, analyzing raw log files (HTTP, Syslog, Auth logs), and identifying Indicators of Compromise (IOCs).
+- Perform vulnerability scans using Nessus and prioritize patch management strategies.
+- Master mapping real-world adversary behavior using the MITRE ATT&CK framework.
+
+Phase 3: Incident Response, Forensics & Automation
+- Develop Incident Response Playbooks (Containment, Eradication, Recovery) for common threats like Phishing, Ransomware, and Malware.
+- Automate repetitive SOC tasks and log analysis using Python or Bash scripts.
+- Perform basic digital forensics and static malware analysis (analyzing headers, suspicious hashes, sandboxing).
+
+CERTIFICATIONS ALIGNED:
+- Entry-Level: CompTIA Security+, Cisco CyberOps Associate
+- Intermediate: CompTIA CySA+ (Cybersecurity Analyst), GIAC Security Essentials (GSEC)
+- Advanced: Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH)
+
+HIGH-IMPACT PORTFOLIO PROJECTS:
+1. Home Lab SOC Environment: Set up a virtual lab using PfSense, Elastic SIEM, and a Windows/Linux agent to simulate attacks and visualize log detection alerts.
+2. Automated Incident Response Script: Create a Python script that parses web server logs, flags brute-force attempts, and automatically blocks offending IP addresses in local firewall rules.
+3. Vulnerability Audit Report: Perform an authorized scan on a vulnerable VM (e.g., Metasploitable), compile a structured vulnerability assessment report, and outline concrete remediation steps.
